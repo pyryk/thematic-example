@@ -13,3 +13,7 @@ Use the following procedure to run this app locally:
 	* Python 2 SimpleHTTPServer: in the app directory, run `python -m SimpleHTTPServer`. Requires [python 2](https://www.python.org/downloads/)
 	* Python 3 http.server: in the app directory, run `python -m http.server`. Requires [python 3](https://www.python.org/downloads/)
 	* node.js http-server. Install with `npm install -g http-server`, run with `http-server` in the app directory.
+	
+## License
+
+This project is licensed under the MIT license to support using it as a bootstrap for Thematic.js applications. For details, see [LICENSE.md](LICENSE.md)
