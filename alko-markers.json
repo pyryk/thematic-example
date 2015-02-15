@@ -1,0 +1,4502 @@
+[
+  {
+    "storeId": "2102",
+    "name": "Helsinki keskusta Arkadia",
+    "url": "/myymalat-palvelut/2102/",
+    "latitude": 60.170814,
+    "longitude": 24.934792,
+    "address": "Salomonkatu 1",
+    "postalCode": "00100",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2103",
+    "name": "Helsinki Kasarmitori",
+    "url": "/myymalat-palvelut/2103/",
+    "latitude": 60.164371,
+    "longitude": 24.95006,
+    "address": "Fabianinkatu 9-11",
+    "postalCode": "00130",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2104",
+    "name": "Helsinki Bulevardi",
+    "url": "/myymalat-palvelut/2104/",
+    "latitude": 60.161259,
+    "longitude": 24.930095,
+    "address": "Hietalahdenranta 5",
+    "postalCode": "00120",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2105",
+    "name": "Helsinki keskusta Forum",
+    "url": "/myymalat-palvelut/2105/",
+    "latitude": 60.169013,
+    "longitude": 24.937932,
+    "address": "Mannerheimintie 20",
+    "postalCode": "00100",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2106",
+    "name": "Helsinki Ullanlinna",
+    "url": "/myymalat-palvelut/2106/",
+    "latitude": 60.159321,
+    "longitude": 24.943421,
+    "address": "Vuorimiehenkatu 33",
+    "postalCode": "00140",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2107",
+    "name": "Helsinki Kallio",
+    "url": "/myymalat-palvelut/2107/",
+    "latitude": 60.187262,
+    "longitude": 24.955068,
+    "address": "Helsinginkatu 15",
+    "postalCode": "00500",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2109",
+    "name": "Helsinki Meilahti",
+    "url": "/myymalat-palvelut/2109/",
+    "latitude": 60.191034,
+    "longitude": 24.91082,
+    "address": "Topeliuksenkatu 43",
+    "postalCode": "00250",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2110",
+    "name": "Helsinki Käpylä",
+    "url": "/myymalat-palvelut/2110/",
+    "latitude": 60.221808,
+    "longitude": 24.947375,
+    "address": "Panuntie 11",
+    "postalCode": "00620",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2111",
+    "name": "Helsinki Itä-Pasila",
+    "url": "/myymalat-palvelut/2111/",
+    "latitude": 60.197313,
+    "longitude": 24.935651,
+    "address": "Ratapihantie 3",
+    "postalCode": "00520",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2112",
+    "name": "Helsinki Konala Ristikko",
+    "url": "/myymalat-palvelut/2112/",
+    "latitude": 60.239155,
+    "longitude": 24.849934,
+    "address": "Ajomiehentie 1",
+    "postalCode": "00390",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2113",
+    "name": "Helsinki Wanha Kauppahalli",
+    "url": "/myymalat-palvelut/2113/",
+    "latitude": 60.165893,
+    "longitude": 24.952721,
+    "address": "Eteläranta",
+    "postalCode": "00130",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2115",
+    "name": "Helsinki Ruoholahti",
+    "url": "/myymalat-palvelut/2115/",
+    "latitude": 60.163317,
+    "longitude": 24.91022,
+    "address": "Itämerenkatu 21",
+    "postalCode": "00180",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2116",
+    "name": "Helsinki Arabianranta Arabia",
+    "url": "/myymalat-palvelut/2116/",
+    "latitude": 60.203124,
+    "longitude": 24.967176,
+    "address": "Hämeentie 109–111 B 9",
+    "postalCode": "00560",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2117",
+    "name": "Helsinki Kruununhaka",
+    "url": "/myymalat-palvelut/2117/",
+    "latitude": 60.174411,
+    "longitude": 24.959544,
+    "address": "Maurinkatu 8-12",
+    "postalCode": "00170",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2118",
+    "name": "Helsinki Munkkivuori",
+    "url": "/myymalat-palvelut/2118/",
+    "latitude": 60.205564,
+    "longitude": 24.876523,
+    "address": "Raumantie 1",
+    "postalCode": "00350",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2119",
+    "name": "Helsinki Lauttasaari",
+    "url": "/myymalat-palvelut/2119/",
+    "latitude": 60.1541807,
+    "longitude": 24.87995476,
+    "address": "Heikkiläntie 2",
+    "postalCode": "00210",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2120",
+    "name": "Helsinki Hakaniemi Ympyrätalo",
+    "url": "/myymalat-palvelut/2120/",
+    "latitude": 60.180342,
+    "longitude": 24.948811,
+    "address": "Siltasaarenkatu 18-20",
+    "postalCode": "00530",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2121",
+    "name": "Helsinki Pakila",
+    "url": "/myymalat-palvelut/2121/",
+    "latitude": 60.236792,
+    "longitude": 24.928815,
+    "address": "Pakilantie 46-48",
+    "postalCode": "00660",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2122",
+    "name": "Helsinki Töölöntori",
+    "url": "/myymalat-palvelut/2122/",
+    "latitude": 60.17867,
+    "longitude": 24.923898,
+    "address": "Sandelsinkatu 4",
+    "postalCode": "00260",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2123",
+    "name": "Helsinki Pitäjänmäki",
+    "url": "/myymalat-palvelut/2123/",
+    "latitude": 60.217522,
+    "longitude": 24.86974,
+    "address": "Takomotie 33",
+    "postalCode": "00380",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2124",
+    "name": "Helsinki keskusta Sokos",
+    "url": "/myymalat-palvelut/2124/",
+    "latitude": 60.17037,
+    "longitude": 24.938604,
+    "address": "Mannerheimintie 9",
+    "postalCode": "00100",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2126",
+    "name": "Helsinki Viikki Prisma",
+    "url": "/myymalat-palvelut/2126/",
+    "latitude": 60.227485,
+    "longitude": 25.009999,
+    "address": "Viikintori 3",
+    "postalCode": "00790",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2128",
+    "name": "Helsinki keskusta Stockmann",
+    "url": "/myymalat-palvelut/2128/",
+    "latitude": 60.168312,
+    "longitude": 24.942498,
+    "address": "Aleksanterinkatu 52.b",
+    "postalCode": "00100",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2129",
+    "name": "Helsinki keskusta Eteläesplanadi",
+    "url": "/myymalat-palvelut/2129/",
+    "latitude": 60.16701443,
+    "longitude": 24.94540663,
+    "address": "Eteläesplanadi 20 B",
+    "postalCode": "00130",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2130",
+    "name": "Helsinki Malmi Nova",
+    "url": "/myymalat-palvelut/2130/",
+    "latitude": 60.251175,
+    "longitude": 25.01398,
+    "address": "Ala-Malmin tori 5",
+    "postalCode": "00700",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2131",
+    "name": "Helsinki Herttoniemi Megahertsi",
+    "url": "/myymalat-palvelut/2131/",
+    "latitude": 60.194368,
+    "longitude": 25.033626,
+    "address": "Insinöörinkatu 2",
+    "postalCode": "00880",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2132",
+    "name": "Helsinki Kannelmäki Kaari",
+    "url": "/myymalat-palvelut/2132/",
+    "latitude": 60.23694,
+    "longitude": 24.888702,
+    "address": "Kantelettarentie 1",
+    "postalCode": "00420",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2133",
+    "name": "Helsinki Itäkeskus Itis Stockmann",
+    "url": "/myymalat-palvelut/2133/",
+    "latitude": 60.21309283,
+    "longitude": 25.08470388,
+    "address": "Itäkatu 1-5 B 61",
+    "postalCode": "00930",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2134",
+    "name": "Helsinki Itäkeskus Prisma",
+    "url": "/myymalat-palvelut/2134/",
+    "latitude": 60.213933,
+    "longitude": 25.087828,
+    "address": "Vanhanlinnantie 1",
+    "postalCode": "00900",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2135",
+    "name": "Helsinki Kontula",
+    "url": "/myymalat-palvelut/2135/",
+    "latitude": 60.238283,
+    "longitude": 25.083609,
+    "address": "Ostostie 4",
+    "postalCode": "00940",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2136",
+    "name": "Helsinki Vuosaari Columbus",
+    "url": "/myymalat-palvelut/2136/",
+    "latitude": 60.207303,
+    "longitude": 25.144982,
+    "address": "Vuotie 45",
+    "postalCode": "00980",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2137",
+    "name": "Helsinki Itäkeskus Citymarket",
+    "url": "/myymalat-palvelut/2137/",
+    "latitude": 60.209894,
+    "longitude": 25.085375,
+    "address": "Kauppakartanonkatu 3",
+    "postalCode": "00930",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2140",
+    "name": "Helsinki Mellunmäki",
+    "url": "/myymalat-palvelut/2140/",
+    "latitude": 60.2316465,
+    "longitude": 25.12797562,
+    "address": "Rukatunturintie 2",
+    "postalCode": "00970",
+    "locality": "HELSINKI"
+  },
+  {
+    "storeId": "2149",
+    "name": "Espoo Lähderanta",
+    "url": "/myymalat-palvelut/2149/",
+    "latitude": 60.2408563,
+    "longitude": 24.73999438,
+    "address": "Lähderanta 1",
+    "postalCode": "02720",
+    "locality": "ESPOO"
+  },
+  {
+    "storeId": "2150",
+    "name": "Espoo Olari Prisma",
+    "url": "/myymalat-palvelut/2150/",
+    "latitude": 60.167325,
+    "longitude": 24.735635,
+    "address": "Komeetankatu 2",
+    "postalCode": "02210",
+    "locality": "ESPOO"
+  },
+  {
+    "storeId": "2152",
+    "name": "Espoo Tapiola Ainoa",
+    "url": "/myymalat-palvelut/2152/",
+    "latitude": 60.17639111,
+    "longitude": 24.80858154,
+    "address": "Tapionaukio 4",
+    "postalCode": "02100",
+    "locality": "ESPOO"
+  },
+  {
+    "storeId": "2153",
+    "name": "Espoo Leppävaara Sello",
+    "url": "/myymalat-palvelut/2153/",
+    "latitude": 60.217952,
+    "longitude": 24.809618,
+    "address": "Leppävaarankatu 3-9",
+    "postalCode": "02600",
+    "locality": "ESPOO"
+  },
+  {
+    "storeId": "2154",
+    "name": "Espoo Espoon keskus Entresse",
+    "url": "/myymalat-palvelut/2154/",
+    "latitude": 60.203856,
+    "longitude": 24.658903,
+    "address": "Siltakatu 11",
+    "postalCode": "02770",
+    "locality": "ESPOO"
+  },
+  {
+    "storeId": "2155",
+    "name": "Espoo Niittykumpu Niittytori",
+    "url": "/myymalat-palvelut/2155/",
+    "latitude": 60.169771,
+    "longitude": 24.76066,
+    "address": "Niittykummuntie 2",
+    "postalCode": "02200",
+    "locality": "ESPOO"
+  },
+  {
+    "storeId": "2156",
+    "name": "Espoo Espoonlahti Lippulaiva",
+    "url": "/myymalat-palvelut/2156/",
+    "latitude": 60.14857,
+    "longitude": 24.65783,
+    "address": "Espoonlahdenkatu 4",
+    "postalCode": "02320",
+    "locality": "ESPOO"
+  },
+  {
+    "storeId": "2157",
+    "name": "Espoo Kauklahti",
+    "url": "/myymalat-palvelut/2157/",
+    "latitude": 60.18800302,
+    "longitude": 24.58761646,
+    "address": "Räävelintie 2",
+    "postalCode": "02780",
+    "locality": "ESPOO"
+  },
+  {
+    "storeId": "2158",
+    "name": "Espoo Matinkylä Iso Omena",
+    "url": "/myymalat-palvelut/2158/",
+    "latitude": 60.162314,
+    "longitude": 24.738737,
+    "address": "Piispansilta 11",
+    "postalCode": "02230",
+    "locality": "ESPOO"
+  },
+  {
+    "storeId": "2159",
+    "name": "Kirkkonummi Munkinmäki Prisma",
+    "url": "/myymalat-palvelut/2159/",
+    "latitude": 60.11846,
+    "longitude": 24.447016,
+    "address": "Munkinmäentie 29",
+    "postalCode": "02400",
+    "locality": "KIRKKONUMMI"
+  },
+  {
+    "storeId": "2160",
+    "name": "Espoo Mankkaa",
+    "url": "/myymalat-palvelut/2160/",
+    "latitude": 60.20395,
+    "longitude": 24.766302,
+    "address": "Sinikalliontie 1-3",
+    "postalCode": "02630",
+    "locality": "ESPOO"
+  },
+  {
+    "storeId": "2161",
+    "name": "Vantaa Tikkurila",
+    "url": "/myymalat-palvelut/2161/",
+    "latitude": 60.293733,
+    "longitude": 25.032216,
+    "address": "Peltolantie 1",
+    "postalCode": "01300",
+    "locality": "VANTAA"
+  },
+  {
+    "storeId": "2162",
+    "name": "Vantaa Myyrmäki Myyrmanni",
+    "url": "/myymalat-palvelut/2162/",
+    "latitude": 60.259856,
+    "longitude": 24.851973,
+    "address": "Iskoskuja 3",
+    "postalCode": "01600",
+    "locality": "VANTAA"
+  },
+  {
+    "storeId": "2163",
+    "name": "Vantaa Korso",
+    "url": "/myymalat-palvelut/2163/",
+    "latitude": 60.349978,
+    "longitude": 25.079448,
+    "address": "Minkkikuja 4",
+    "postalCode": "01450",
+    "locality": "VANTAA"
+  },
+  {
+    "storeId": "2164",
+    "name": "Vantaa Pakkala Jumbo",
+    "url": "/myymalat-palvelut/2164/",
+    "latitude": 60.291027,
+    "longitude": 24.965878,
+    "address": "Vantaanportinkatu 3",
+    "postalCode": "01510",
+    "locality": "VANTAA"
+  },
+  {
+    "storeId": "2165",
+    "name": "Kauniainen",
+    "url": "/myymalat-palvelut/2165/",
+    "latitude": 60.209916,
+    "longitude": 24.729559,
+    "address": "Kauniaistentie 7",
+    "postalCode": "02700",
+    "locality": "KAUNIAINEN"
+  },
+  {
+    "storeId": "2166",
+    "name": "Vantaa Hämeenkylä",
+    "url": "/myymalat-palvelut/2166/",
+    "latitude": 60.272377,
+    "longitude": 24.801821,
+    "address": "Ainontie 1",
+    "postalCode": "01630",
+    "locality": "VANTAA"
+  },
+  {
+    "storeId": "2167",
+    "name": "Vantaa Helsinki-Vantaan lentoasema",
+    "url": "/myymalat-palvelut/2167/",
+    "latitude": 60.318722,
+    "longitude": 24.968046,
+    "address": "Helsinki-Vantaan lentoasema",
+    "postalCode": "01530",
+    "locality": "VANTAA"
+  },
+  {
+    "storeId": "2168",
+    "name": "Vantaa Tammisto Citymarket",
+    "url": "/myymalat-palvelut/2168/",
+    "latitude": 60.274556,
+    "longitude": 24.970769,
+    "address": "Valimotie 9",
+    "postalCode": "01510",
+    "locality": "VANTAA"
+  },
+  {
+    "storeId": "2169",
+    "name": "Vantaa Pakkala Jumbo Stockmann",
+    "url": "/myymalat-palvelut/2169/",
+    "latitude": 60.292564,
+    "longitude": 24.963051,
+    "address": "Valuuttakatu 2",
+    "postalCode": "01510",
+    "locality": "VANTAA"
+  },
+  {
+    "storeId": "2170",
+    "name": "Tuusula Hyrylä",
+    "url": "/myymalat-palvelut/2170/",
+    "latitude": 60.397794,
+    "longitude": 25.020038,
+    "address": "Hyrylänkatu 6",
+    "postalCode": "04300",
+    "locality": "TUUSULA"
+  },
+  {
+    "storeId": "2171",
+    "name": "Hanko",
+    "url": "/myymalat-palvelut/2171/",
+    "latitude": 59.8292367,
+    "longitude": 22.96500399,
+    "address": "Revellinkatu 2 (Esplanadi 67)",
+    "postalCode": "10900",
+    "locality": "HANKO"
+  },
+  {
+    "storeId": "2172",
+    "name": "Vantaa Koivukylä Citymarket",
+    "url": "/myymalat-palvelut/2172/",
+    "latitude": 60.324255,
+    "longitude": 25.058258,
+    "address": "Ojalehdonkuja 1",
+    "postalCode": "01400",
+    "locality": "VANTAA"
+  },
+  {
+    "storeId": "2173",
+    "name": "Raasepori Tammisaari",
+    "url": "/myymalat-palvelut/2173/",
+    "latitude": 59.978987,
+    "longitude": 23.439252,
+    "address": "Rautatienkatu 5",
+    "postalCode": "10600",
+    "locality": "TAMMISAARI"
+  },
+  {
+    "storeId": "2174",
+    "name": "Inkoo",
+    "url": "/myymalat-palvelut/2174/",
+    "latitude": 60.043109,
+    "longitude": 24.005258,
+    "address": "Rantatie 3",
+    "postalCode": "10210",
+    "locality": "INKOO"
+  },
+  {
+    "storeId": "2175",
+    "name": "Raasepori Karjaa",
+    "url": "/myymalat-palvelut/2175/",
+    "latitude": 60.07065,
+    "longitude": 23.663103,
+    "address": "Ratakatu 59",
+    "postalCode": "10300",
+    "locality": "KARJAA"
+  },
+  {
+    "storeId": "2176",
+    "name": "Lohja Ojamo Citymarket",
+    "url": "/myymalat-palvelut/2176/",
+    "latitude": 60.229023,
+    "longitude": 24.027772,
+    "address": "Ojamonharjuntie 61",
+    "postalCode": "08200",
+    "locality": "LOHJA"
+  },
+  {
+    "storeId": "2177",
+    "name": "Lohja keskusta Lohjantähti",
+    "url": "/myymalat-palvelut/2177/",
+    "latitude": 60.249308,
+    "longitude": 24.065486,
+    "address": "Kauppakatu 5–9",
+    "postalCode": "08100",
+    "locality": "LOHJA"
+  },
+  {
+    "storeId": "2178",
+    "name": "Karkkila",
+    "url": "/myymalat-palvelut/2178/",
+    "latitude": 60.534283,
+    "longitude": 24.232129,
+    "address": "Mäntylänkatu 1",
+    "postalCode": "03600",
+    "locality": "KARKKILA"
+  },
+  {
+    "storeId": "2179",
+    "name": "Vihti Nummela Citymarket",
+    "url": "/myymalat-palvelut/2179/",
+    "latitude": 60.332434,
+    "longitude": 24.330636,
+    "address": "Tuusankaari 1",
+    "postalCode": "03100",
+    "locality": "NUMMELA"
+  },
+  {
+    "storeId": "2180",
+    "name": "Nurmijärvi Kirkonkylä",
+    "url": "/myymalat-palvelut/2180/",
+    "latitude": 60.457117,
+    "longitude": 24.821425,
+    "address": "Kauppanummentie 2",
+    "postalCode": "01900",
+    "locality": "NURMIJÄRVI"
+  },
+  {
+    "storeId": "2181",
+    "name": "Nurmijärvi Klaukkala Citymarket",
+    "url": "/myymalat-palvelut/2181/",
+    "latitude": 60.377847,
+    "longitude": 24.759805,
+    "address": "Viirintie 9",
+    "postalCode": "01800",
+    "locality": "KLAUKKALA"
+  },
+  {
+    "storeId": "2182",
+    "name": "Kerava Prisma",
+    "url": "/myymalat-palvelut/2182/",
+    "latitude": 60.402186,
+    "longitude": 25.103374,
+    "address": "Kauppakaari 2",
+    "postalCode": "04200",
+    "locality": "KERAVA"
+  },
+  {
+    "storeId": "2183",
+    "name": "Järvenpää Citymarket",
+    "url": "/myymalat-palvelut/2183/",
+    "latitude": 60.477074,
+    "longitude": 25.101949,
+    "address": "Helsingintie 41",
+    "postalCode": "04410",
+    "locality": "JÄRVENPÄÄ"
+  },
+  {
+    "storeId": "2184",
+    "name": "Mäntsälä",
+    "url": "/myymalat-palvelut/2184/",
+    "latitude": 60.63764,
+    "longitude": 25.317703,
+    "address": "Sälinkääntie 2",
+    "postalCode": "04600",
+    "locality": "MÄNTSÄLÄ"
+  },
+  {
+    "storeId": "2185",
+    "name": "Järvenpää Prisma",
+    "url": "/myymalat-palvelut/2185/",
+    "latitude": 60.469467,
+    "longitude": 25.084828,
+    "address": "Rantakatu 5",
+    "postalCode": "04400",
+    "locality": "JÄRVENPÄÄ"
+  },
+  {
+    "storeId": "2186",
+    "name": "Hyvinkää Willa",
+    "url": "/myymalat-palvelut/2186/",
+    "latitude": 60.632648,
+    "longitude": 24.86303,
+    "address": "Hämeenkatu 9",
+    "postalCode": "05800",
+    "locality": "HYVINKÄÄ"
+  },
+  {
+    "storeId": "2187",
+    "name": "Sipoo Nikkilä",
+    "url": "/myymalat-palvelut/2187/",
+    "latitude": 60.377014,
+    "longitude": 25.271547,
+    "address": "Kaskiniitynkuja 2",
+    "postalCode": "04130",
+    "locality": "SIPOO"
+  },
+  {
+    "storeId": "2190",
+    "name": "Porvoo Näsi",
+    "url": "/myymalat-palvelut/2190/",
+    "latitude": 60.387436,
+    "longitude": 25.651994,
+    "address": "Aleksanterinkaari 1",
+    "postalCode": "06100",
+    "locality": "PORVOO"
+  },
+  {
+    "storeId": "2191",
+    "name": "Porvoo Tarmola",
+    "url": "/myymalat-palvelut/2191/",
+    "latitude": 60.39948,
+    "longitude": 25.685876,
+    "address": "Asentajantie 1",
+    "postalCode": "06150",
+    "locality": "PORVOO"
+  },
+  {
+    "storeId": "2192",
+    "name": "Loviisa",
+    "url": "/myymalat-palvelut/2192/",
+    "latitude": 60.458504,
+    "longitude": 26.226186,
+    "address": "Mariankatu 33",
+    "postalCode": "07900",
+    "locality": "LOVIISA"
+  },
+  {
+    "storeId": "2193",
+    "name": "Sipoo Söderkulla",
+    "url": "/myymalat-palvelut/2193/",
+    "latitude": 60.297758,
+    "longitude": 25.329402,
+    "address": "Rautatiekuja 4",
+    "postalCode": "01150",
+    "locality": "SÖDERKULLA"
+  },
+  {
+    "storeId": "2201",
+    "name": "Turku keskusta Kauppahalli",
+    "url": "/myymalat-palvelut/2201/",
+    "latitude": 60.449795,
+    "longitude": 22.265998,
+    "address": "Eerikinkatu 16 H",
+    "postalCode": "20100",
+    "locality": "TURKU"
+  },
+  {
+    "storeId": "2202",
+    "name": "Turku Itäharju",
+    "url": "/myymalat-palvelut/2202/",
+    "latitude": 60.445722,
+    "longitude": 22.326498,
+    "address": "Kalevantie 41",
+    "postalCode": "20520",
+    "locality": "TURKU"
+  },
+  {
+    "storeId": "2203",
+    "name": "Raisio Mylly",
+    "url": "/myymalat-palvelut/2203/",
+    "latitude": 60.490139,
+    "longitude": 22.192296,
+    "address": "Myllynkatu 4",
+    "postalCode": "21280",
+    "locality": "RAISIO"
+  },
+  {
+    "storeId": "2204",
+    "name": "Turku Kupittaa",
+    "url": "/myymalat-palvelut/2204/",
+    "latitude": 60.443938,
+    "longitude": 22.286141,
+    "address": "Uudenmaantie 17",
+    "postalCode": "20700",
+    "locality": "TURKU"
+  },
+  {
+    "storeId": "2205",
+    "name": "Turku Manhattan",
+    "url": "/myymalat-palvelut/2205/",
+    "latitude": 60.457427,
+    "longitude": 22.235484,
+    "address": "Pitkämäenkatu 4",
+    "postalCode": "20250",
+    "locality": "TURKU"
+  },
+  {
+    "storeId": "2206",
+    "name": "Turku keskusta Wiklund",
+    "url": "/myymalat-palvelut/2206/",
+    "latitude": 60.452502,
+    "longitude": 22.267278,
+    "address": "Kauppiaskatu 9",
+    "postalCode": "20100",
+    "locality": "TURKU"
+  },
+  {
+    "storeId": "2207",
+    "name": "Turku Länsikeskus Citymarket",
+    "url": "/myymalat-palvelut/2207/",
+    "latitude": 60.47357,
+    "longitude": 22.232602,
+    "address": "Markulantie 150",
+    "postalCode": "20320",
+    "locality": "TURKU"
+  },
+  {
+    "storeId": "2208",
+    "name": "Turku keskusta Stockmann",
+    "url": "/myymalat-palvelut/2208/",
+    "latitude": 60.450881,
+    "longitude": 22.262909,
+    "address": "Yliopistonkatu 22",
+    "postalCode": "20100",
+    "locality": "TURKU"
+  },
+  {
+    "storeId": "2209",
+    "name": "Turku Skanssi",
+    "url": "/myymalat-palvelut/2209/",
+    "latitude": 60.429156,
+    "longitude": 22.324808,
+    "address": "Skanssinkatu 10",
+    "postalCode": "20730",
+    "locality": "TURKU"
+  },
+  {
+    "storeId": "2210",
+    "name": "Kaarina",
+    "url": "/myymalat-palvelut/2210/",
+    "latitude": 60.407876,
+    "longitude": 22.36202,
+    "address": "Hovirinnantie 5",
+    "postalCode": "20780",
+    "locality": "KAARINA"
+  },
+  {
+    "storeId": "2211",
+    "name": "Lieto",
+    "url": "/myymalat-palvelut/2211/",
+    "latitude": 60.50343,
+    "longitude": 22.458444,
+    "address": "Hyvättyläntie 2",
+    "postalCode": "21420",
+    "locality": "LIETO"
+  },
+  {
+    "storeId": "2213",
+    "name": "Turku Hirvensalo",
+    "url": "/myymalat-palvelut/2213/",
+    "latitude": 60.417817,
+    "longitude": 22.229346,
+    "address": "Vanha Kakskerrantie 1",
+    "postalCode": "20900",
+    "locality": "TURKU"
+  },
+  {
+    "storeId": "2214",
+    "name": "Turku Tampereentie",
+    "url": "/myymalat-palvelut/2214/",
+    "latitude": 60.472653,
+    "longitude": 22.286593,
+    "address": "Vanha Tampereentie 108",
+    "postalCode": "20300",
+    "locality": "TURKU"
+  },
+  {
+    "storeId": "2215",
+    "name": "Raisio keskusta",
+    "url": "/myymalat-palvelut/2215/",
+    "latitude": 60.490045,
+    "longitude": 22.170569,
+    "address": "Voudinkatu 5",
+    "postalCode": "21200",
+    "locality": "RAISIO"
+  },
+  {
+    "storeId": "2217",
+    "name": "Paimio",
+    "url": "/myymalat-palvelut/2217/",
+    "latitude": 60.457487,
+    "longitude": 22.687921,
+    "address": "Asematie 1",
+    "postalCode": "21530",
+    "locality": "PAIMIO"
+  },
+  {
+    "storeId": "2218",
+    "name": "Kaarina Piikkiö",
+    "url": "/myymalat-palvelut/2218/",
+    "latitude": 60.429243,
+    "longitude": 22.513118,
+    "address": "Lukkarintie 2",
+    "postalCode": "21500",
+    "locality": "PIIKKIÖ"
+  },
+  {
+    "storeId": "2220",
+    "name": "Kustavi",
+    "url": "/myymalat-palvelut/2220/",
+    "latitude": 60.54504,
+    "longitude": 21.35508,
+    "address": "Pleikiläntie 2",
+    "postalCode": "23360",
+    "locality": "KUSTAVI"
+  },
+  {
+    "storeId": "2221",
+    "name": "Uusikaupunki",
+    "url": "/myymalat-palvelut/2221/",
+    "latitude": 60.799447,
+    "longitude": 21.412841,
+    "address": "Rantakatu 25",
+    "postalCode": "23500",
+    "locality": "UUSIKAUPUNKI"
+  },
+  {
+    "storeId": "2222",
+    "name": "Laitila",
+    "url": "/myymalat-palvelut/2222/",
+    "latitude": 60.875964,
+    "longitude": 21.69798,
+    "address": "Kauppakatu 3",
+    "postalCode": "23800",
+    "locality": "LAITILA"
+  },
+  {
+    "storeId": "2223",
+    "name": "Aura",
+    "url": "/myymalat-palvelut/2223/",
+    "latitude": 60.64721597,
+    "longitude": 22.5913266,
+    "address": "Savirannankuja 2",
+    "postalCode": "21380",
+    "locality": "AURA"
+  },
+  {
+    "storeId": "2224",
+    "name": "Mynämäki",
+    "url": "/myymalat-palvelut/2224/",
+    "latitude": 60.684015,
+    "longitude": 21.989049,
+    "address": "Valtakatu 1",
+    "postalCode": "23100",
+    "locality": "MYNÄMÄKI"
+  },
+  {
+    "storeId": "2225",
+    "name": "Naantali",
+    "url": "/myymalat-palvelut/2225/",
+    "latitude": 60.467433,
+    "longitude": 22.030951,
+    "address": "Tuulensuunkatu 12",
+    "postalCode": "21100",
+    "locality": "NAANTALI"
+  },
+  {
+    "storeId": "2227",
+    "name": "Parainen keskusta",
+    "url": "/myymalat-palvelut/2227/",
+    "latitude": 60.309207,
+    "longitude": 22.308055,
+    "address": "Kirkkoesplanadi 32",
+    "postalCode": "21600",
+    "locality": "PARAINEN"
+  },
+  {
+    "storeId": "2228",
+    "name": "Parainen Nauvo",
+    "url": "/myymalat-palvelut/2228/",
+    "latitude": 60.192831,
+    "longitude": 21.90989,
+    "address": "Kirkkomäki",
+    "postalCode": "21660",
+    "locality": "NAUVO"
+  },
+  {
+    "storeId": "2231",
+    "name": "Salo keskusta",
+    "url": "/myymalat-palvelut/2231/",
+    "latitude": 60.387296,
+    "longitude": 23.122481,
+    "address": "Vilhonkatu 14",
+    "postalCode": "24100",
+    "locality": "SALO"
+  },
+  {
+    "storeId": "2232",
+    "name": "Salo Halikko",
+    "url": "/myymalat-palvelut/2232/",
+    "latitude": 60.393524,
+    "longitude": 23.082953,
+    "address": "Prismantie 2",
+    "postalCode": "24800",
+    "locality": "HALIKKO"
+  },
+  {
+    "storeId": "2233",
+    "name": "Somero",
+    "url": "/myymalat-palvelut/2233/",
+    "latitude": 60.633563,
+    "longitude": 23.509684,
+    "address": "Turuntie 6",
+    "postalCode": "31400",
+    "locality": "SOMERO"
+  },
+  {
+    "storeId": "2234",
+    "name": "Salo Perniö",
+    "url": "/myymalat-palvelut/2234/",
+    "latitude": 60.205337,
+    "longitude": 23.113334,
+    "address": "Haarlantie 21",
+    "postalCode": "25500",
+    "locality": "PERNIÖ"
+  },
+  {
+    "storeId": "2235",
+    "name": "Kemiönsaari Kemiö",
+    "url": "/myymalat-palvelut/2235/",
+    "latitude": 60.164133,
+    "longitude": 22.735125,
+    "address": "Engelsbyntie 15",
+    "postalCode": "25700",
+    "locality": "KEMIÖ"
+  },
+  {
+    "storeId": "2236",
+    "name": "Kemiönsaari Dragsfjärd Taalintehdas",
+    "url": "/myymalat-palvelut/2236/",
+    "latitude": 60.01985,
+    "longitude": 22.507252,
+    "address": "Malmintie 2",
+    "postalCode": "25900",
+    "locality": "TAALINTEHDAS"
+  },
+  {
+    "storeId": "2238",
+    "name": "Loimaa",
+    "url": "/myymalat-palvelut/2238/",
+    "latitude": 60.855905,
+    "longitude": 23.045726,
+    "address": "Aleksis Kivenkatu 7",
+    "postalCode": "32200",
+    "locality": "LOIMAA"
+  },
+  {
+    "storeId": "2246",
+    "name": "Jomala Maxinge Center",
+    "url": "/myymalat-palvelut/2246/",
+    "latitude": 60.12942065,
+    "longitude": 19.93339955,
+    "address": "Sparvägen 1",
+    "postalCode": "22150",
+    "locality": "JOMALA"
+  },
+  {
+    "storeId": "2247",
+    "name": "Maarianhamina Sittkoff",
+    "url": "/myymalat-palvelut/2247/",
+    "latitude": 60.09891907,
+    "longitude": 19.94232957,
+    "address": "Torggatan 13",
+    "postalCode": "22100",
+    "locality": "MAARIANHAMINA"
+  },
+  {
+    "storeId": "2251",
+    "name": "Pori keskusta",
+    "url": "/myymalat-palvelut/2251/",
+    "latitude": 61.48529,
+    "longitude": 21.799701,
+    "address": "Isolinnankatu 18",
+    "postalCode": "28100",
+    "locality": "PORI"
+  },
+  {
+    "storeId": "2252",
+    "name": "Pori Eteläväylä Prisma",
+    "url": "/myymalat-palvelut/2252/",
+    "latitude": 61.477106,
+    "longitude": 21.757081,
+    "address": "Eteläväylä 2",
+    "postalCode": "28610",
+    "locality": "PORI"
+  },
+  {
+    "storeId": "2254",
+    "name": "Pori Itäkeskus Prisma",
+    "url": "/myymalat-palvelut/2254/",
+    "latitude": 61.454815,
+    "longitude": 21.840197,
+    "address": "Itäkeskuksenkaari 6",
+    "postalCode": "28130",
+    "locality": "PORI"
+  },
+  {
+    "storeId": "2255",
+    "name": "Merikarvia",
+    "url": "/myymalat-palvelut/2255/",
+    "latitude": 61.859844,
+    "longitude": 21.504834,
+    "address": "Kauppatie 51",
+    "postalCode": "29900",
+    "locality": "MERIKARVIA"
+  },
+  {
+    "storeId": "2256",
+    "name": "Ulvila",
+    "url": "/myymalat-palvelut/2256/",
+    "latitude": 61.427744,
+    "longitude": 21.876054,
+    "address": "Friitalantie 18",
+    "postalCode": "28400",
+    "locality": "ULVILA"
+  },
+  {
+    "storeId": "2257",
+    "name": "Pori Noormarkku",
+    "url": "/myymalat-palvelut/2257/",
+    "latitude": 61.5958,
+    "longitude": 21.865994,
+    "address": "Finpyyntie 10",
+    "postalCode": "29600",
+    "locality": "NOORMARKKU"
+  },
+  {
+    "storeId": "2258",
+    "name": "Nakkila",
+    "url": "/myymalat-palvelut/2258/",
+    "latitude": 61.365595,
+    "longitude": 22.004645,
+    "address": "Kauppatie 1",
+    "postalCode": "29250",
+    "locality": "NAKKILA"
+  },
+  {
+    "storeId": "2260",
+    "name": "Kankaanpää",
+    "url": "/myymalat-palvelut/2260/",
+    "latitude": 61.806785,
+    "longitude": 22.388775,
+    "address": "Keskuskatu 39",
+    "postalCode": "38700",
+    "locality": "KANKAANPÄÄ"
+  },
+  {
+    "storeId": "2262",
+    "name": "Harjavalta",
+    "url": "/myymalat-palvelut/2262/",
+    "latitude": 61.313896,
+    "longitude": 22.146361,
+    "address": "Harjavallankatu 12",
+    "postalCode": "29200",
+    "locality": "HARJAVALTA"
+  },
+  {
+    "storeId": "2263",
+    "name": "Säkylä",
+    "url": "/myymalat-palvelut/2263/",
+    "latitude": 61.04730201,
+    "longitude": 22.35204923,
+    "address": "Palomiehentie 9",
+    "postalCode": "27800",
+    "locality": "SÄKYLÄ"
+  },
+  {
+    "storeId": "2264",
+    "name": "Eurajoki",
+    "url": "/myymalat-palvelut/2264/",
+    "latitude": 61.202553,
+    "longitude": 21.72763,
+    "address": "Riikontie 2",
+    "postalCode": "27100",
+    "locality": "EURAJOKI"
+  },
+  {
+    "storeId": "2265",
+    "name": "Rauma keskusta",
+    "url": "/myymalat-palvelut/2265/",
+    "latitude": 61.132434,
+    "longitude": 21.506763,
+    "address": "Karjalankatu 5",
+    "postalCode": "26100",
+    "locality": "RAUMA"
+  },
+  {
+    "storeId": "2266",
+    "name": "Eura",
+    "url": "/myymalat-palvelut/2266/",
+    "latitude": 61.129924,
+    "longitude": 22.14335,
+    "address": "Satakunnankatu 30",
+    "postalCode": "27510",
+    "locality": "EURA"
+  },
+  {
+    "storeId": "2267",
+    "name": "Kokemäki",
+    "url": "/myymalat-palvelut/2267/",
+    "latitude": 61.255059,
+    "longitude": 22.348445,
+    "address": "Haapionkatu 17",
+    "postalCode": "32800",
+    "locality": "KOKEMÄKI"
+  },
+  {
+    "storeId": "2268",
+    "name": "Huittinen",
+    "url": "/myymalat-palvelut/2268/",
+    "latitude": 61.179013,
+    "longitude": 22.6988,
+    "address": "Särmänkatu 1",
+    "postalCode": "32700",
+    "locality": "HUITTINEN"
+  },
+  {
+    "storeId": "2269",
+    "name": "Rauma Äyhö",
+    "url": "/myymalat-palvelut/2269/",
+    "latitude": 61.131881,
+    "longitude": 21.538096,
+    "address": "Äyhönjärventie 1",
+    "postalCode": "26100",
+    "locality": "RAUMA"
+  },
+  {
+    "storeId": "2270",
+    "name": "Lappajärvi",
+    "url": "/myymalat-palvelut/2270/",
+    "latitude": 63.217527,
+    "longitude": 23.623444,
+    "address": "Maneesintie 1",
+    "postalCode": "62600",
+    "locality": "LAPPAJÄRVI"
+  },
+  {
+    "storeId": "2271",
+    "name": "Ilmajoki",
+    "url": "/myymalat-palvelut/2271/",
+    "latitude": 62.730335,
+    "longitude": 22.577784,
+    "address": "Kauppatie 20",
+    "postalCode": "60800",
+    "locality": "ILMAJOKI"
+  },
+  {
+    "storeId": "2272",
+    "name": "Seinäjoki keskusta Anttila",
+    "url": "/myymalat-palvelut/2272/",
+    "latitude": 62.791914,
+    "longitude": 22.833935,
+    "address": "Puskantie 13",
+    "postalCode": "60100",
+    "locality": "SEINÄJOKI"
+  },
+  {
+    "storeId": "2273",
+    "name": "Ähtäri",
+    "url": "/myymalat-palvelut/2273/",
+    "latitude": 62.550163,
+    "longitude": 24.086633,
+    "address": "Oikotie 8",
+    "postalCode": "63700",
+    "locality": "ÄHTÄRI"
+  },
+  {
+    "storeId": "2274",
+    "name": "Alavus keskusta",
+    "url": "/myymalat-palvelut/2274/",
+    "latitude": 62.587067,
+    "longitude": 23.614204,
+    "address": "Vähtärintie 2",
+    "postalCode": "63300",
+    "locality": "ALAVUS"
+  },
+  {
+    "storeId": "2275",
+    "name": "Kauhava keskusta",
+    "url": "/myymalat-palvelut/2275/",
+    "latitude": 63.10041365,
+    "longitude": 23.05322839,
+    "address": "Heimolankuja 2",
+    "postalCode": "62200",
+    "locality": "KAUHAVA"
+  },
+  {
+    "storeId": "2276",
+    "name": "Kurikka",
+    "url": "/myymalat-palvelut/2276/",
+    "latitude": 62.615235,
+    "longitude": 22.395859,
+    "address": "Laurintie 22",
+    "postalCode": "61300",
+    "locality": "KURIKKA"
+  },
+  {
+    "storeId": "2277",
+    "name": "Alajärvi",
+    "url": "/myymalat-palvelut/2277/",
+    "latitude": 63.00491619,
+    "longitude": 23.80425672,
+    "address": "Yrittäjäntie 5",
+    "postalCode": "62900",
+    "locality": "ALAJÄRVI"
+  },
+  {
+    "storeId": "2278",
+    "name": "Lapua",
+    "url": "/myymalat-palvelut/2278/",
+    "latitude": 62.974633,
+    "longitude": 23.023058,
+    "address": "Latojantie 9",
+    "postalCode": "62100",
+    "locality": "LAPUA"
+  },
+  {
+    "storeId": "2279",
+    "name": "Jalasjärvi",
+    "url": "/myymalat-palvelut/2279/",
+    "latitude": 62.486851,
+    "longitude": 22.752904,
+    "address": "Koskitie 21",
+    "postalCode": "61600",
+    "locality": "JALASJÄRVI"
+  },
+  {
+    "storeId": "2280",
+    "name": "Kristiinankaupunki",
+    "url": "/myymalat-palvelut/2280/",
+    "latitude": 62.2739,
+    "longitude": 21.379701,
+    "address": "Merikatu 4",
+    "postalCode": "64100",
+    "locality": "KRISTIINANKAUPUNKI"
+  },
+  {
+    "storeId": "2281",
+    "name": "Kauhajoki",
+    "url": "/myymalat-palvelut/2281/",
+    "latitude": 62.43392,
+    "longitude": 22.183477,
+    "address": "Topeeka 65",
+    "postalCode": "61800",
+    "locality": "KAUHAJOKI"
+  },
+  {
+    "storeId": "2282",
+    "name": "Alavus Tuuri",
+    "url": "/myymalat-palvelut/2282/",
+    "latitude": 62.602426,
+    "longitude": 23.727049,
+    "address": "Onnentie 7",
+    "postalCode": "63610",
+    "locality": "TUURI"
+  },
+  {
+    "storeId": "2283",
+    "name": "Kauhava Alahärmä",
+    "url": "/myymalat-palvelut/2283/",
+    "latitude": 63.239095,
+    "longitude": 22.850262,
+    "address": "Saharavainiontie 1",
+    "postalCode": "62300",
+    "locality": "HÄRMÄ"
+  },
+  {
+    "storeId": "2284",
+    "name": "Uusikaarlepyy",
+    "url": "/myymalat-palvelut/2284/",
+    "latitude": 63.532266,
+    "longitude": 22.540322,
+    "address": "Frillmossantie 1",
+    "postalCode": "66900",
+    "locality": "UUSIKAARLEPYY"
+  },
+  {
+    "storeId": "2285",
+    "name": "Teuva",
+    "url": "/myymalat-palvelut/2285/",
+    "latitude": 62.487718,
+    "longitude": 21.739226,
+    "address": "Mikkiläntie 12",
+    "postalCode": "64700",
+    "locality": "TEUVA"
+  },
+  {
+    "storeId": "2286",
+    "name": "Pietarsaari",
+    "url": "/myymalat-palvelut/2286/",
+    "latitude": 63.678039,
+    "longitude": 22.715981,
+    "address": "Koulukatu 4",
+    "postalCode": "68600",
+    "locality": "PIETARSAARI"
+  },
+  {
+    "storeId": "2287",
+    "name": "Seinäjoki Nurmo Prisma",
+    "url": "/myymalat-palvelut/2287/",
+    "latitude": 62.806293,
+    "longitude": 22.879101,
+    "address": "Hyllykalliontie 2",
+    "postalCode": "60510",
+    "locality": "HYLLYKALLIO"
+  },
+  {
+    "storeId": "2289",
+    "name": "Seinäjoki Jouppi Citymarket",
+    "url": "/myymalat-palvelut/2289/",
+    "latitude": 62.792524,
+    "longitude": 22.807628,
+    "address": "Suupohjantie 45",
+    "postalCode": "60320",
+    "locality": "SEINÄJOKI"
+  },
+  {
+    "storeId": "2290",
+    "name": "Närpiö",
+    "url": "/myymalat-palvelut/2290/",
+    "latitude": 62.476622,
+    "longitude": 21.337672,
+    "address": "Närpesvägen 8",
+    "postalCode": "64200",
+    "locality": "NÄRPIÖ"
+  },
+  {
+    "storeId": "2291",
+    "name": "Vaasa keskusta Citymarket",
+    "url": "/myymalat-palvelut/2291/",
+    "latitude": 63.098225,
+    "longitude": 21.616857,
+    "address": "Hovioikeudenpuistikko 17",
+    "postalCode": "65100",
+    "locality": "VAASA"
+  },
+  {
+    "storeId": "2292",
+    "name": "Vaasa Asevelikylä Prisma",
+    "url": "/myymalat-palvelut/2292/",
+    "latitude": 63.101757,
+    "longitude": 21.646878,
+    "address": "Jukolantie 1",
+    "postalCode": "65300",
+    "locality": "VAASA"
+  },
+  {
+    "storeId": "2293",
+    "name": "Vaasa Kivihaka Citymarket",
+    "url": "/myymalat-palvelut/2293/",
+    "latitude": 63.108279,
+    "longitude": 21.65189,
+    "address": "Kokkokalliontie 2–6",
+    "postalCode": "65300",
+    "locality": "VAASA"
+  },
+  {
+    "storeId": "2295",
+    "name": "Laihia",
+    "url": "/myymalat-palvelut/2295/",
+    "latitude": 62.979786,
+    "longitude": 22.007641,
+    "address": "Kauppatie 6",
+    "postalCode": "66400",
+    "locality": "LAIHIA"
+  },
+  {
+    "storeId": "2401",
+    "name": "Hämeenlinna Tiiriö",
+    "url": "/myymalat-palvelut/2401/",
+    "latitude": 61.006729,
+    "longitude": 24.419328,
+    "address": "Katsastusmiehentie 6",
+    "postalCode": "13130",
+    "locality": "HÄMEENLINNA"
+  },
+  {
+    "storeId": "2402",
+    "name": "Hämeenlinna Goodman",
+    "url": "/myymalat-palvelut/2402/",
+    "latitude": 60.99682277,
+    "longitude": 24.45576246,
+    "address": "Kaivokatu 7",
+    "postalCode": "13100",
+    "locality": "HÄMEENLINNA"
+  },
+  {
+    "storeId": "2403",
+    "name": "Hämeenlinna Hauho",
+    "url": "/myymalat-palvelut/2403/",
+    "latitude": 61.171382,
+    "longitude": 24.563418,
+    "address": "Hauhontie 16",
+    "postalCode": "14700",
+    "locality": "HAUHO"
+  },
+  {
+    "storeId": "2404",
+    "name": "Janakkala Turenki",
+    "url": "/myymalat-palvelut/2404/",
+    "latitude": 60.922387,
+    "longitude": 24.649609,
+    "address": "Harvialantie 5",
+    "postalCode": "14200",
+    "locality": "TURENKI"
+  },
+  {
+    "storeId": "2405",
+    "name": "Forssa Prismakeskus",
+    "url": "/myymalat-palvelut/2405/",
+    "latitude": 60.81186,
+    "longitude": 23.6372,
+    "address": "Tapulikuja 6",
+    "postalCode": "30100",
+    "locality": "FORSSA"
+  },
+  {
+    "storeId": "2406",
+    "name": "Forssa Kutomo",
+    "url": "/myymalat-palvelut/2406/",
+    "latitude": 60.808372,
+    "longitude": 23.630285,
+    "address": "Yhtiönkatu",
+    "postalCode": "30100",
+    "locality": "FORSSA"
+  },
+  {
+    "storeId": "2407",
+    "name": "Hämeenlinna Lammi",
+    "url": "/myymalat-palvelut/2407/",
+    "latitude": 61.077225,
+    "longitude": 25.010456,
+    "address": "Mommilantie 1",
+    "postalCode": "16900",
+    "locality": "LAMMI"
+  },
+  {
+    "storeId": "2408",
+    "name": "Riihimäki Atomikortteli",
+    "url": "/myymalat-palvelut/2408/",
+    "latitude": 60.732814,
+    "longitude": 24.77845,
+    "address": "Voimalankatu 2",
+    "postalCode": "11130",
+    "locality": "RIIHIMÄKI"
+  },
+  {
+    "storeId": "2409",
+    "name": "Loppi",
+    "url": "/myymalat-palvelut/2409/",
+    "latitude": 60.72052728,
+    "longitude": 24.44281115,
+    "address": "Yhdystie 3",
+    "postalCode": "12700",
+    "locality": "LOPPI"
+  },
+  {
+    "storeId": "2410",
+    "name": "Kärkölä Järvelä",
+    "url": "/myymalat-palvelut/2410/",
+    "latitude": 60.870555,
+    "longitude": 25.275816,
+    "address": "Ruukintie 1",
+    "postalCode": "16600",
+    "locality": "JÄRVELÄ"
+  },
+  {
+    "storeId": "2411",
+    "name": "Heinola keskusta",
+    "url": "/myymalat-palvelut/2411/",
+    "latitude": 61.202979,
+    "longitude": 26.03052,
+    "address": "Savontie 5",
+    "postalCode": "18100",
+    "locality": "HEINOLA"
+  },
+  {
+    "storeId": "2413",
+    "name": "Hausjärvi Oitti",
+    "url": "/myymalat-palvelut/2413/",
+    "latitude": 60.788515,
+    "longitude": 25.026043,
+    "address": "Tammitie 5",
+    "postalCode": "12100",
+    "locality": "OITTI"
+  },
+  {
+    "storeId": "2414",
+    "name": "Heinola Citymarket",
+    "url": "/myymalat-palvelut/2414/",
+    "latitude": 61.192999,
+    "longitude": 25.998414,
+    "address": "Hevossaarentie 1",
+    "postalCode": "18100",
+    "locality": "HEINOLA"
+  },
+  {
+    "storeId": "2415",
+    "name": "Riihimäki Merkos",
+    "url": "/myymalat-palvelut/2415/",
+    "latitude": 60.721974,
+    "longitude": 24.734842,
+    "address": "Merkoksenkatu 5",
+    "postalCode": "11710",
+    "locality": "RIIHIMÄKI"
+  },
+  {
+    "storeId": "2416",
+    "name": "Sysmä",
+    "url": "/myymalat-palvelut/2416/",
+    "latitude": 61.502352,
+    "longitude": 25.681952,
+    "address": "Särkilahdentie 3",
+    "postalCode": "19700",
+    "locality": "SYSMÄ"
+  },
+  {
+    "storeId": "2417",
+    "name": "Hämeenlinna Idänpää",
+    "url": "/myymalat-palvelut/2417/",
+    "latitude": 61.006264,
+    "longitude": 24.506237,
+    "address": "Laaniitynkatu 2",
+    "postalCode": "13210",
+    "locality": "HÄMEENLINNA"
+  },
+  {
+    "storeId": "2418",
+    "name": "Hartola",
+    "url": "/myymalat-palvelut/2418/",
+    "latitude": 61.579146,
+    "longitude": 26.020975,
+    "address": "Keskustie 50",
+    "postalCode": "19600",
+    "locality": "HARTOLA"
+  },
+  {
+    "storeId": "2419",
+    "name": "Lahti Karisma",
+    "url": "/myymalat-palvelut/2419/",
+    "latitude": 60.981861,
+    "longitude": 25.737246,
+    "address": "Kauppiaankatu 2",
+    "postalCode": "15160",
+    "locality": "LAHTI"
+  },
+  {
+    "storeId": "2420",
+    "name": "Lahti Renkomäki",
+    "url": "/myymalat-palvelut/2420/",
+    "latitude": 60.935637,
+    "longitude": 25.634262,
+    "address": "Simolanmutka 1",
+    "postalCode": "15680",
+    "locality": "LAHTI"
+  },
+  {
+    "storeId": "2421",
+    "name": "Lahti Syke",
+    "url": "/myymalat-palvelut/2421/",
+    "latitude": 60.986219,
+    "longitude": 25.665995,
+    "address": "Kauppakatu 18",
+    "postalCode": "15140",
+    "locality": "LAHTI"
+  },
+  {
+    "storeId": "2422",
+    "name": "Lahti Sokos",
+    "url": "/myymalat-palvelut/2422/",
+    "latitude": 60.98264,
+    "longitude": 25.659033,
+    "address": "Aleksanterinkatu 19-21",
+    "postalCode": "15110",
+    "locality": "LAHTI"
+  },
+  {
+    "storeId": "2423",
+    "name": "Lahti Laune",
+    "url": "/myymalat-palvelut/2423/",
+    "latitude": 60.958912,
+    "longitude": 25.654014,
+    "address": "Ajokatu 83",
+    "postalCode": "15610",
+    "locality": "LAHTI"
+  },
+  {
+    "storeId": "2424",
+    "name": "Lahti Holma",
+    "url": "/myymalat-palvelut/2424/",
+    "latitude": 61.006472,
+    "longitude": 25.678272,
+    "address": "Johanneksenkatu 4",
+    "postalCode": "15240",
+    "locality": "LAHTI"
+  },
+  {
+    "storeId": "2425",
+    "name": "Hollola Salpakangas",
+    "url": "/myymalat-palvelut/2425/",
+    "latitude": 60.989939,
+    "longitude": 25.516161,
+    "address": "Kansankatu 8",
+    "postalCode": "15870",
+    "locality": "HOLLOLA"
+  },
+  {
+    "storeId": "2426",
+    "name": "Nastola Rakokivi",
+    "url": "/myymalat-palvelut/2426/",
+    "latitude": 60.937211,
+    "longitude": 25.962447,
+    "address": "Muurarintie 3",
+    "postalCode": "15550",
+    "locality": "NASTOLA"
+  },
+  {
+    "storeId": "2427",
+    "name": "Orimattila",
+    "url": "/myymalat-palvelut/2427/",
+    "latitude": 60.805143,
+    "longitude": 25.730748,
+    "address": "Erkontie 16",
+    "postalCode": "16300",
+    "locality": "ORIMATTILA"
+  },
+  {
+    "storeId": "2428",
+    "name": "Asikkala Vääksy",
+    "url": "/myymalat-palvelut/2428/",
+    "latitude": 61.173231,
+    "longitude": 25.545711,
+    "address": "Maakaupantie 1",
+    "postalCode": "17200",
+    "locality": "VÄÄKSY"
+  },
+  {
+    "storeId": "2429",
+    "name": "Padasjoki",
+    "url": "/myymalat-palvelut/2429/",
+    "latitude": 61.349178,
+    "longitude": 25.265784,
+    "address": "Kauppatie 2",
+    "postalCode": "17500",
+    "locality": "PADASJOKI"
+  },
+  {
+    "storeId": "2432",
+    "name": "Sastamala Vammala",
+    "url": "/myymalat-palvelut/2432/",
+    "latitude": 61.340121,
+    "longitude": 22.911459,
+    "address": "Torikatu 1",
+    "postalCode": "38200",
+    "locality": "SASTAMALA"
+  },
+  {
+    "storeId": "2435",
+    "name": "Nokia",
+    "url": "/myymalat-palvelut/2435/",
+    "latitude": 61.478415,
+    "longitude": 23.512283,
+    "address": "Välikatu 22",
+    "postalCode": "37100",
+    "locality": "NOKIA"
+  },
+  {
+    "storeId": "2436",
+    "name": "Virrat",
+    "url": "/myymalat-palvelut/2436/",
+    "latitude": 62.240508,
+    "longitude": 23.780325,
+    "address": "Pääskyntie 13",
+    "postalCode": "34800",
+    "locality": "VIRRAT"
+  },
+  {
+    "storeId": "2437",
+    "name": "Parkano",
+    "url": "/myymalat-palvelut/2437/",
+    "latitude": 62.00683,
+    "longitude": 23.01125,
+    "address": "Humalankatu 2",
+    "postalCode": "39700",
+    "locality": "PARKANO"
+  },
+  {
+    "storeId": "2438",
+    "name": "Ikaalinen",
+    "url": "/myymalat-palvelut/2438/",
+    "latitude": 61.762242,
+    "longitude": 23.070562,
+    "address": "Teollisuustalontie 2",
+    "postalCode": "39500",
+    "locality": "IKAALINEN"
+  },
+  {
+    "storeId": "2440",
+    "name": "Akaa Toijala",
+    "url": "/myymalat-palvelut/2440/",
+    "latitude": 61.167988,
+    "longitude": 23.8672,
+    "address": "Valtatie 1",
+    "postalCode": "37800",
+    "locality": "TOIJALA"
+  },
+  {
+    "storeId": "2441",
+    "name": "Urjala",
+    "url": "/myymalat-palvelut/2441/",
+    "latitude": 61.080473,
+    "longitude": 23.549621,
+    "address": "Tampereentie 1",
+    "postalCode": "31760",
+    "locality": "URJALA"
+  },
+  {
+    "storeId": "2442",
+    "name": "Valkeakoski",
+    "url": "/myymalat-palvelut/2442/",
+    "latitude": 61.266482,
+    "longitude": 24.029415,
+    "address": "Valtakatu 9-11",
+    "postalCode": "37600",
+    "locality": "VALKEAKOSKI"
+  },
+  {
+    "storeId": "2451",
+    "name": "Mänttä",
+    "url": "/myymalat-palvelut/2451/",
+    "latitude": 62.033163,
+    "longitude": 24.622603,
+    "address": "Seppälän puistotie 1",
+    "postalCode": "35800",
+    "locality": "MÄNTTÄ"
+  },
+  {
+    "storeId": "2453",
+    "name": "Orivesi",
+    "url": "/myymalat-palvelut/2453/",
+    "latitude": 61.678308,
+    "longitude": 24.357521,
+    "address": "Keskustie 36",
+    "postalCode": "35300",
+    "locality": "ORIVESI"
+  },
+  {
+    "storeId": "2455",
+    "name": "Äänekoski Hirvaskangas",
+    "url": "/myymalat-palvelut/2455/",
+    "latitude": 62.516746,
+    "longitude": 25.688297,
+    "address": "Suonenjoentie 10",
+    "postalCode": "44250",
+    "locality": "ÄÄNEKOIVISTO"
+  },
+  {
+    "storeId": "2456",
+    "name": "Jyväskylä Seppälä Citymarket",
+    "url": "/myymalat-palvelut/2456/",
+    "latitude": 62.264535,
+    "longitude": 25.778512,
+    "address": "Vasarakatu 29",
+    "postalCode": "40320",
+    "locality": "JYVÄSKYLÄ"
+  },
+  {
+    "storeId": "2461",
+    "name": "Tampere Anttila",
+    "url": "/myymalat-palvelut/2461/",
+    "latitude": 61.499225,
+    "longitude": 23.756124,
+    "address": "Puutarhakatu 10",
+    "postalCode": "33210",
+    "locality": "TAMPERE"
+  },
+  {
+    "storeId": "2462",
+    "name": "Tampere Stockmann",
+    "url": "/myymalat-palvelut/2462/",
+    "latitude": 61.498807,
+    "longitude": 23.770676,
+    "address": "Hämeenkatu 4",
+    "postalCode": "33100",
+    "locality": "TAMPERE"
+  },
+  {
+    "storeId": "2463",
+    "name": "Tampere Kaleva Prisma",
+    "url": "/myymalat-palvelut/2463/",
+    "latitude": 61.492203,
+    "longitude": 23.819818,
+    "address": "Sammonkatu 75",
+    "postalCode": "33540",
+    "locality": "TAMPERE"
+  },
+  {
+    "storeId": "2464",
+    "name": "Tampere Sokos",
+    "url": "/myymalat-palvelut/2464/",
+    "latitude": 61.497127,
+    "longitude": 23.758166,
+    "address": "Hämeenkatu 21",
+    "postalCode": "33200",
+    "locality": "TAMPERE"
+  },
+  {
+    "storeId": "2465",
+    "name": "Tampere Tammela",
+    "url": "/myymalat-palvelut/2465/",
+    "latitude": 61.503191,
+    "longitude": 23.778285,
+    "address": "Kullervonkatu 9",
+    "postalCode": "33100",
+    "locality": "TAMPERE"
+  },
+  {
+    "storeId": "2466",
+    "name": "Tampere Koivistonkylä Prisma",
+    "url": "/myymalat-palvelut/2466/",
+    "latitude": 61.468627,
+    "longitude": 23.781915,
+    "address": "Lempääläntie 21",
+    "postalCode": "33820",
+    "locality": "TAMPERE"
+  },
+  {
+    "storeId": "2467",
+    "name": "Kangasala keskusta",
+    "url": "/myymalat-palvelut/2467/",
+    "latitude": 61.462267,
+    "longitude": 24.067794,
+    "address": "Finnentie 1",
+    "postalCode": "36200",
+    "locality": "KANGASALA"
+  },
+  {
+    "storeId": "2468",
+    "name": "Tampere Linnainmaa Prisma",
+    "url": "/myymalat-palvelut/2468/",
+    "latitude": 61.494844,
+    "longitude": 23.880841,
+    "address": "Liikekatu 3",
+    "postalCode": "33580",
+    "locality": "TAMPERE"
+  },
+  {
+    "storeId": "2469",
+    "name": "Lempäälä keskusta",
+    "url": "/myymalat-palvelut/2469/",
+    "latitude": 61.31363842,
+    "longitude": 23.75915492,
+    "address": "Puistokatu 4",
+    "postalCode": "37500",
+    "locality": "LEMPÄÄLÄ"
+  },
+  {
+    "storeId": "2470",
+    "name": "Tampere Hervanta Duo",
+    "url": "/myymalat-palvelut/2470/",
+    "latitude": 61.450919,
+    "longitude": 23.852381,
+    "address": "Pietilänkatu 2",
+    "postalCode": "33720",
+    "locality": "TAMPERE"
+  },
+  {
+    "storeId": "2471",
+    "name": "Tampere Lielahti Citymarket",
+    "url": "/myymalat-palvelut/2471/",
+    "latitude": 61.51469,
+    "longitude": 23.669295,
+    "address": "Harjuntausta 7",
+    "postalCode": "33400",
+    "locality": "TAMPERE"
+  },
+  {
+    "storeId": "2472",
+    "name": "Tampere Turtola Citymarket",
+    "url": "/myymalat-palvelut/2472/",
+    "latitude": 61.478346,
+    "longitude": 23.841853,
+    "address": "Martinpojankatu 4",
+    "postalCode": "33710",
+    "locality": "TAMPERE"
+  },
+  {
+    "storeId": "2473",
+    "name": "Pirkkala keskusta",
+    "url": "/myymalat-palvelut/2473/",
+    "latitude": 61.46598,
+    "longitude": 23.645459,
+    "address": "Suupantie 10",
+    "postalCode": "33960",
+    "locality": "PIRKKALA"
+  },
+  {
+    "storeId": "2474",
+    "name": "Ylöjärvi",
+    "url": "/myymalat-palvelut/2474/",
+    "latitude": 61.564332,
+    "longitude": 23.594696,
+    "address": "Lähdevainiontie 1",
+    "postalCode": "33480",
+    "locality": "YLÖJÄRVI"
+  },
+  {
+    "storeId": "2475",
+    "name": "Hämeenkyrö",
+    "url": "/myymalat-palvelut/2475/",
+    "latitude": 61.639021,
+    "longitude": 23.196255,
+    "address": "Härkikuja 4",
+    "postalCode": "39100",
+    "locality": "HÄMEENKYRÖ"
+  },
+  {
+    "storeId": "2476",
+    "name": "Kangasala Prisma",
+    "url": "/myymalat-palvelut/2476/",
+    "latitude": 61.476944,
+    "longitude": 23.977163,
+    "address": "Mäkirinteentie 10",
+    "postalCode": "36220",
+    "locality": "KANGASALA"
+  },
+  {
+    "storeId": "2477",
+    "name": "Pirkkala Partola",
+    "url": "/myymalat-palvelut/2477/",
+    "latitude": 61.469506,
+    "longitude": 23.716786,
+    "address": "Kenkätie 4",
+    "postalCode": "33950",
+    "locality": "PIRKKALA"
+  },
+  {
+    "storeId": "2478",
+    "name": "Lempäälä Ideapark",
+    "url": "/myymalat-palvelut/2478/",
+    "latitude": 61.360117,
+    "longitude": 23.799195,
+    "address": "Ideaparkinkatu 4",
+    "postalCode": "37570",
+    "locality": "LEMPÄÄLÄ"
+  },
+  {
+    "storeId": "2479",
+    "name": "Muurame",
+    "url": "/myymalat-palvelut/2479/",
+    "latitude": 62.13647157,
+    "longitude": 25.67371125,
+    "address": "Setäläntie 2",
+    "postalCode": "40950",
+    "locality": "MUURAME"
+  },
+  {
+    "storeId": "2480",
+    "name": "Kyyjärvi",
+    "url": "/myymalat-palvelut/2480/",
+    "latitude": 63.042863,
+    "longitude": 24.560426,
+    "address": "Vaasantie 2",
+    "postalCode": "43700",
+    "locality": "KYYJÄRVI"
+  },
+  {
+    "storeId": "2481",
+    "name": "Ruovesi",
+    "url": "/myymalat-palvelut/2481/",
+    "latitude": 61.98498,
+    "longitude": 24.071969,
+    "address": "Ruovedentie 38",
+    "postalCode": "34600",
+    "locality": "RUOVESI"
+  },
+  {
+    "storeId": "2482",
+    "name": "Keuruu",
+    "url": "/myymalat-palvelut/2482/",
+    "latitude": 62.258003,
+    "longitude": 24.708457,
+    "address": "Keuruuntie 9",
+    "postalCode": "42700",
+    "locality": "KEURUU"
+  },
+  {
+    "storeId": "2483",
+    "name": "Saarijärvi",
+    "url": "/myymalat-palvelut/2483/",
+    "latitude": 62.707346,
+    "longitude": 25.257256,
+    "address": "Torikatu 5 a",
+    "postalCode": "43100",
+    "locality": "SAARIJÄRVI"
+  },
+  {
+    "storeId": "2484",
+    "name": "Karstula",
+    "url": "/myymalat-palvelut/2484/",
+    "latitude": 62.879189,
+    "longitude": 24.804008,
+    "address": "Keskustie 2",
+    "postalCode": "43500",
+    "locality": "KARSTULA"
+  },
+  {
+    "storeId": "2485",
+    "name": "Viitasaari",
+    "url": "/myymalat-palvelut/2485/",
+    "latitude": 63.076549,
+    "longitude": 25.862125,
+    "address": "Pappilantie 14",
+    "postalCode": "44500",
+    "locality": "VIITASAARI"
+  },
+  {
+    "storeId": "2487",
+    "name": "Pihtipudas",
+    "url": "/myymalat-palvelut/2487/",
+    "latitude": 63.369812,
+    "longitude": 25.579702,
+    "address": "Asematie 1",
+    "postalCode": "44800",
+    "locality": "PIHTIPUDAS"
+  },
+  {
+    "storeId": "2488",
+    "name": "Äänekoski keskusta",
+    "url": "/myymalat-palvelut/2488/",
+    "latitude": 62.601088,
+    "longitude": 25.724241,
+    "address": "Matkakatu 2",
+    "postalCode": "44100",
+    "locality": "ÄÄNEKOSKI"
+  },
+  {
+    "storeId": "2490",
+    "name": "Jyväskylä Palokka Prisma",
+    "url": "/myymalat-palvelut/2490/",
+    "latitude": 62.289037,
+    "longitude": 25.715219,
+    "address": "Palokanorsi 1",
+    "postalCode": "40270",
+    "locality": "PALOKKA"
+  },
+  {
+    "storeId": "2491",
+    "name": "Jyväskylä keskusta Sokos",
+    "url": "/myymalat-palvelut/2491/",
+    "latitude": 62.242713,
+    "longitude": 25.748515,
+    "address": "Asemakatu 8",
+    "postalCode": "40100",
+    "locality": "JYVÄSKYLÄ"
+  },
+  {
+    "storeId": "2492",
+    "name": "Jyväskylä Seppälä Prisma",
+    "url": "/myymalat-palvelut/2492/",
+    "latitude": 62.258701,
+    "longitude": 25.778421,
+    "address": "Ahjokatu 7",
+    "postalCode": "40320",
+    "locality": "JYVÄSKYLÄ"
+  },
+  {
+    "storeId": "2493",
+    "name": "Jyväskylä Keljo Keljon kauppakeskus",
+    "url": "/myymalat-palvelut/2493/",
+    "latitude": 62.216138,
+    "longitude": 25.718685,
+    "address": "Kylmälahdentie 6",
+    "postalCode": "40500",
+    "locality": "JYVÄSKYLÄ"
+  },
+  {
+    "storeId": "2494",
+    "name": "Laukaa",
+    "url": "/myymalat-palvelut/2494/",
+    "latitude": 62.414266,
+    "longitude": 25.953412,
+    "address": "Laukaantie 25",
+    "postalCode": "41340",
+    "locality": "LAUKAA"
+  },
+  {
+    "storeId": "2495",
+    "name": "Jyväskylä Vaajakoski",
+    "url": "/myymalat-palvelut/2495/",
+    "latitude": 62.24830942,
+    "longitude": 25.87760269,
+    "address": "Asematie 1",
+    "postalCode": "40800",
+    "locality": "VAAJAKOSKI"
+  },
+  {
+    "storeId": "2496",
+    "name": "Jämsä",
+    "url": "/myymalat-palvelut/2496/",
+    "latitude": 61.866123,
+    "longitude": 25.196518,
+    "address": "Siltakatu 10",
+    "postalCode": "42100",
+    "locality": "JÄMSÄ"
+  },
+  {
+    "storeId": "2497",
+    "name": "Joutsa",
+    "url": "/myymalat-palvelut/2497/",
+    "latitude": 61.744075,
+    "longitude": 26.106857,
+    "address": "Yhdystie 9",
+    "postalCode": "19650",
+    "locality": "JOUTSA"
+  },
+  {
+    "storeId": "2498",
+    "name": "Hankasalmi",
+    "url": "/myymalat-palvelut/2498/",
+    "latitude": 62.389205,
+    "longitude": 26.435999,
+    "address": "Keskustie 35",
+    "postalCode": "41520",
+    "locality": "HANKASALMI"
+  },
+  {
+    "storeId": "2499",
+    "name": "Kuhmoinen",
+    "url": "/myymalat-palvelut/2499/",
+    "latitude": 61.56593,
+    "longitude": 25.181791,
+    "address": "Toritie 54",
+    "postalCode": "17800",
+    "locality": "KUHMOINEN"
+  },
+  {
+    "storeId": "2701",
+    "name": "Joensuu keskusta Sokos",
+    "url": "/myymalat-palvelut/2701/",
+    "latitude": 62.60097536,
+    "longitude": 29.76513027,
+    "address": "Rantakatu 19",
+    "postalCode": "80100",
+    "locality": "JOENSUU"
+  },
+  {
+    "storeId": "2702",
+    "name": "Joensuu Käpykangas Prisma",
+    "url": "/myymalat-palvelut/2702/",
+    "latitude": 62.618003,
+    "longitude": 29.774824,
+    "address": "Voimatie 2",
+    "postalCode": "80100",
+    "locality": "JOENSUU"
+  },
+  {
+    "storeId": "2703",
+    "name": "Joensuu Pilkko Citymarket",
+    "url": "/myymalat-palvelut/2703/",
+    "latitude": 62.628581,
+    "longitude": 29.706821,
+    "address": "Linjatie 2",
+    "postalCode": "80140",
+    "locality": "JOENSUU"
+  },
+  {
+    "storeId": "2704",
+    "name": "Liperi",
+    "url": "/myymalat-palvelut/2704/",
+    "latitude": 62.529043,
+    "longitude": 29.385043,
+    "address": "Heinävedentie 1",
+    "postalCode": "83100",
+    "locality": "LIPERI"
+  },
+  {
+    "storeId": "2705",
+    "name": "Joensuu Eno",
+    "url": "/myymalat-palvelut/2705/",
+    "latitude": 62.798109,
+    "longitude": 30.149654,
+    "address": "Kauppatie 11",
+    "postalCode": "81200",
+    "locality": "ENO"
+  },
+  {
+    "storeId": "2706",
+    "name": "Outokumpu",
+    "url": "/myymalat-palvelut/2706/",
+    "latitude": 62.728121,
+    "longitude": 29.014013,
+    "address": "Pohjoisahonkatu 3",
+    "postalCode": "83500",
+    "locality": "OUTOKUMPU"
+  },
+  {
+    "storeId": "2707",
+    "name": "Kitee",
+    "url": "/myymalat-palvelut/2707/",
+    "latitude": 62.096867,
+    "longitude": 30.143477,
+    "address": "Kiteentie 6",
+    "postalCode": "82500",
+    "locality": "KITEE"
+  },
+  {
+    "storeId": "2708",
+    "name": "Ilomantsi",
+    "url": "/myymalat-palvelut/2708/",
+    "latitude": 62.672287,
+    "longitude": 30.934764,
+    "address": "Mantsintie 1-3",
+    "postalCode": "82900",
+    "locality": "ILOMANTSI"
+  },
+  {
+    "storeId": "2711",
+    "name": "Nurmes",
+    "url": "/myymalat-palvelut/2711/",
+    "latitude": 63.556411,
+    "longitude": 29.105163,
+    "address": "Porokylänkatu 21",
+    "postalCode": "75500",
+    "locality": "NURMES"
+  },
+  {
+    "storeId": "2715",
+    "name": "Lieksa",
+    "url": "/myymalat-palvelut/2715/",
+    "latitude": 63.316395,
+    "longitude": 30.032385,
+    "address": "Pielisentie 34",
+    "postalCode": "81700",
+    "locality": "LIEKSA"
+  },
+  {
+    "storeId": "2716",
+    "name": "Savonlinna Nojanmaa Prisma",
+    "url": "/myymalat-palvelut/2716/",
+    "latitude": 61.875174,
+    "longitude": 28.949571,
+    "address": "Nojanmaantie 15",
+    "postalCode": "57210",
+    "locality": "SAVONLINNA"
+  },
+  {
+    "storeId": "2717",
+    "name": "Juuka",
+    "url": "/myymalat-palvelut/2717/",
+    "latitude": 63.24390297,
+    "longitude": 29.25330457,
+    "address": "Kirkkotie 4",
+    "postalCode": "83900",
+    "locality": "JUUKA"
+  },
+  {
+    "storeId": "2720",
+    "name": "Mikkeli Ristiina",
+    "url": "/myymalat-palvelut/2720/",
+    "latitude": 61.510779,
+    "longitude": 27.247587,
+    "address": "Brahentie 14",
+    "postalCode": "52300",
+    "locality": "RISTIINA"
+  },
+  {
+    "storeId": "2721",
+    "name": "Puumala",
+    "url": "/myymalat-palvelut/2721/",
+    "latitude": 61.523938,
+    "longitude": 28.17756,
+    "address": "Keskustie 19",
+    "postalCode": "52200",
+    "locality": "PUUMALA"
+  },
+  {
+    "storeId": "2722",
+    "name": "Mikkeli keskusta Stella",
+    "url": "/myymalat-palvelut/2722/",
+    "latitude": 61.689634,
+    "longitude": 27.273595,
+    "address": "Savilahdenkatu 8",
+    "postalCode": "50100",
+    "locality": "MIKKELI"
+  },
+  {
+    "storeId": "2723",
+    "name": "Kangasniemi",
+    "url": "/myymalat-palvelut/2723/",
+    "latitude": 61.987915,
+    "longitude": 26.642199,
+    "address": "Otto Mannisen tie 10",
+    "postalCode": "51200",
+    "locality": "KANGASNIEMI"
+  },
+  {
+    "storeId": "2724",
+    "name": "Mäntyharju",
+    "url": "/myymalat-palvelut/2724/",
+    "latitude": 61.416734,
+    "longitude": 26.879372,
+    "address": "Liiketie 1",
+    "postalCode": "52700",
+    "locality": "MÄNTYHARJU"
+  },
+  {
+    "storeId": "2725",
+    "name": "Juva",
+    "url": "/myymalat-palvelut/2725/",
+    "latitude": 61.896569,
+    "longitude": 27.855548,
+    "address": "Piikkiläntie 8",
+    "postalCode": "51900",
+    "locality": "JUVA"
+  },
+  {
+    "storeId": "2726",
+    "name": "Savonlinna keskusta",
+    "url": "/myymalat-palvelut/2726/",
+    "latitude": 61.8699188,
+    "longitude": 28.87941013,
+    "address": "Olavinkatu 46",
+    "postalCode": "57100",
+    "locality": "SAVONLINNA"
+  },
+  {
+    "storeId": "2727",
+    "name": "Heinävesi",
+    "url": "/myymalat-palvelut/2727/",
+    "latitude": 62.425744,
+    "longitude": 28.630546,
+    "address": "Keskuksenkuja 1",
+    "postalCode": "79700",
+    "locality": "HEINÄVESI"
+  },
+  {
+    "storeId": "2728",
+    "name": "Rantasalmi",
+    "url": "/myymalat-palvelut/2728/",
+    "latitude": 62.066787,
+    "longitude": 28.300051,
+    "address": "Kylätie 42-44",
+    "postalCode": "58900",
+    "locality": "RANTASALMI"
+  },
+  {
+    "storeId": "2729",
+    "name": "Savonlinna Kerimäki",
+    "url": "/myymalat-palvelut/2729/",
+    "latitude": 61.911941,
+    "longitude": 29.280315,
+    "address": "Puruvedentie 51",
+    "postalCode": "58200",
+    "locality": "KERIMÄKI"
+  },
+  {
+    "storeId": "2730",
+    "name": "Pertunmaa Kuortti",
+    "url": "/myymalat-palvelut/2730/",
+    "latitude": 61.42561,
+    "longitude": 26.434785,
+    "address": "Mäyrätie 1",
+    "postalCode": "19410",
+    "locality": "KUORTTI"
+  },
+  {
+    "storeId": "2731",
+    "name": "Pieksämäki",
+    "url": "/myymalat-palvelut/2731/",
+    "latitude": 62.303469,
+    "longitude": 27.164375,
+    "address": "Kukkaroniementie 5",
+    "postalCode": "76100",
+    "locality": "PIEKSÄMÄKI"
+  },
+  {
+    "storeId": "2732",
+    "name": "Mikkeli Graani",
+    "url": "/myymalat-palvelut/2732/",
+    "latitude": 61.686663,
+    "longitude": 27.299714,
+    "address": "Graanintie 1",
+    "postalCode": "50190",
+    "locality": "MIKKELI"
+  },
+  {
+    "storeId": "2736",
+    "name": "Varkaus",
+    "url": "/myymalat-palvelut/2736/",
+    "latitude": 62.31833606,
+    "longitude": 27.86121896,
+    "address": "Kauppakatu 74",
+    "postalCode": "78200",
+    "locality": "VARKAUS"
+  },
+  {
+    "storeId": "2737",
+    "name": "Leppävirta",
+    "url": "/myymalat-palvelut/2737/",
+    "latitude": 62.491531,
+    "longitude": 27.788592,
+    "address": "Savonkatu 43",
+    "postalCode": "79100",
+    "locality": "LEPPÄVIRTA"
+  },
+  {
+    "storeId": "2738",
+    "name": "Sulkava",
+    "url": "/myymalat-palvelut/2738/",
+    "latitude": 61.787281,
+    "longitude": 28.371237,
+    "address": "Alanteentie 38",
+    "postalCode": "58700",
+    "locality": "SULKAVA"
+  },
+  {
+    "storeId": "2739",
+    "name": "Kuopio Matkus Shopping Center",
+    "url": "/myymalat-palvelut/2739/",
+    "latitude": 62.82278181,
+    "longitude": 27.60262387,
+    "address": "Matkuksentie 60 L 2",
+    "postalCode": "70800",
+    "locality": "KUOPIO"
+  },
+  {
+    "storeId": "2741",
+    "name": "Iisalmi",
+    "url": "/myymalat-palvelut/2741/",
+    "latitude": 63.55605,
+    "longitude": 27.189721,
+    "address": "Satamakatu 10",
+    "postalCode": "74100",
+    "locality": "IISALMI"
+  },
+  {
+    "storeId": "2742",
+    "name": "Lapinlahti",
+    "url": "/myymalat-palvelut/2742/",
+    "latitude": 63.366821,
+    "longitude": 27.399304,
+    "address": "Linnansalmentie 12",
+    "postalCode": "73100",
+    "locality": "LAPINLAHTI"
+  },
+  {
+    "storeId": "2743",
+    "name": "Pielavesi",
+    "url": "/myymalat-palvelut/2743/",
+    "latitude": 63.233559,
+    "longitude": 26.756019,
+    "address": "Puustellintie 21",
+    "postalCode": "72400",
+    "locality": "PIELAVESI"
+  },
+  {
+    "storeId": "2744",
+    "name": "Kiuruvesi",
+    "url": "/myymalat-palvelut/2744/",
+    "latitude": 63.650315,
+    "longitude": 26.62015,
+    "address": "Kukkomäentie 17",
+    "postalCode": "74700",
+    "locality": "KIURUVESI"
+  },
+  {
+    "storeId": "2745",
+    "name": "Siilinjärvi",
+    "url": "/myymalat-palvelut/2745/",
+    "latitude": 63.074275,
+    "longitude": 27.657723,
+    "address": "Toritie 12",
+    "postalCode": "71800",
+    "locality": "SIILINJÄRVI"
+  },
+  {
+    "storeId": "2747",
+    "name": "Kuopio Nilsiä",
+    "url": "/myymalat-palvelut/2747/",
+    "latitude": 63.200804,
+    "longitude": 28.090054,
+    "address": "Laitilantie 27",
+    "postalCode": "73300",
+    "locality": "NILSIÄ"
+  },
+  {
+    "storeId": "2751",
+    "name": "Kuopio Petonen",
+    "url": "/myymalat-palvelut/2751/",
+    "latitude": 62.83975443,
+    "longitude": 27.64726894,
+    "address": "Petosentie 4",
+    "postalCode": "70820",
+    "locality": "KUOPIO"
+  },
+  {
+    "storeId": "2752",
+    "name": "Kuopio keskusta Sokos",
+    "url": "/myymalat-palvelut/2752/",
+    "latitude": 62.892187,
+    "longitude": 27.676846,
+    "address": "Haapaniemenkatu 24-26",
+    "postalCode": "70110",
+    "locality": "KUOPIO"
+  },
+  {
+    "storeId": "2753",
+    "name": "Kuopio Kolmisoppi Citymarket",
+    "url": "/myymalat-palvelut/2753/",
+    "latitude": 62.864407,
+    "longitude": 27.610635,
+    "address": "Kolmisopentie 3, PL 3000",
+    "postalCode": "70780",
+    "locality": "KUOPIO"
+  },
+  {
+    "storeId": "2754",
+    "name": "Kuopio Savilahti Prisma",
+    "url": "/myymalat-palvelut/2754/",
+    "latitude": 62.888673,
+    "longitude": 27.631822,
+    "address": "Savilahdentie 10, PL 1050",
+    "postalCode": "70700",
+    "locality": "KUOPIO"
+  },
+  {
+    "storeId": "2755",
+    "name": "Kuopio Päiväranta Citymarket",
+    "url": "/myymalat-palvelut/2755/",
+    "latitude": 62.9324,
+    "longitude": 27.676868,
+    "address": "Päivärannantie 18",
+    "postalCode": "70420",
+    "locality": "KUOPIO"
+  },
+  {
+    "storeId": "2756",
+    "name": "Suonenjoki",
+    "url": "/myymalat-palvelut/2756/",
+    "latitude": 62.625775,
+    "longitude": 27.119036,
+    "address": "Rautalammintie 15",
+    "postalCode": "77600",
+    "locality": "SUONENJOKI"
+  },
+  {
+    "storeId": "2757",
+    "name": "Kaavi",
+    "url": "/myymalat-palvelut/2757/",
+    "latitude": 62.974878,
+    "longitude": 28.479923,
+    "address": "Kaavintie 5",
+    "postalCode": "73600",
+    "locality": "KAAVI"
+  },
+  {
+    "storeId": "2758",
+    "name": "Kuopio Karttula",
+    "url": "/myymalat-palvelut/2758/",
+    "latitude": 62.894964,
+    "longitude": 26.973215,
+    "address": "Kissakuusentie 1",
+    "postalCode": "72100",
+    "locality": "KARTTULA"
+  },
+  {
+    "storeId": "2761",
+    "name": "Kouvola Valkeala",
+    "url": "/myymalat-palvelut/2761/",
+    "latitude": 60.929977,
+    "longitude": 26.799732,
+    "address": "Kalevantie 1",
+    "postalCode": "45370",
+    "locality": "VALKEALA"
+  },
+  {
+    "storeId": "2762",
+    "name": "Kouvola Kuusankoski",
+    "url": "/myymalat-palvelut/2762/",
+    "latitude": 60.90670791,
+    "longitude": 26.62595067,
+    "address": "Kymenlaaksonkatu 2",
+    "postalCode": "45700",
+    "locality": "KUUSANKOSKI"
+  },
+  {
+    "storeId": "2763",
+    "name": "Kouvola Tervaskangas",
+    "url": "/myymalat-palvelut/2763/",
+    "latitude": 60.877378,
+    "longitude": 26.653954,
+    "address": "Tervasharjunkatu 1",
+    "postalCode": "45720",
+    "locality": "KUUSANKOSKI"
+  },
+  {
+    "storeId": "2765",
+    "name": "Kouvola Inkeroinen",
+    "url": "/myymalat-palvelut/2765/",
+    "latitude": 60.692303,
+    "longitude": 26.838245,
+    "address": "Lauttatie 1",
+    "postalCode": "46900",
+    "locality": "INKEROINEN"
+  },
+  {
+    "storeId": "2767",
+    "name": "Kouvola keskusta",
+    "url": "/myymalat-palvelut/2767/",
+    "latitude": 60.868299,
+    "longitude": 26.708441,
+    "address": "Koulukatu 1",
+    "postalCode": "45100",
+    "locality": "KOUVOLA"
+  },
+  {
+    "storeId": "2768",
+    "name": "Kouvola Korjala Prisma",
+    "url": "/myymalat-palvelut/2768/",
+    "latitude": 60.871403,
+    "longitude": 26.658382,
+    "address": "Tommolankatu 9",
+    "postalCode": "45130",
+    "locality": "KOUVOLA"
+  },
+  {
+    "storeId": "2769",
+    "name": "Iitti Kausala",
+    "url": "/myymalat-palvelut/2769/",
+    "latitude": 60.888789,
+    "longitude": 26.340823,
+    "address": "Kauppakatu 13",
+    "postalCode": "47400",
+    "locality": "KAUSALA"
+  },
+  {
+    "storeId": "2772",
+    "name": "Hamina",
+    "url": "/myymalat-palvelut/2772/",
+    "latitude": 60.569083,
+    "longitude": 27.194155,
+    "address": "Isoympyränkatu 15",
+    "postalCode": "49400",
+    "locality": "HAMINA"
+  },
+  {
+    "storeId": "2773",
+    "name": "Virolahti",
+    "url": "/myymalat-palvelut/2773/",
+    "latitude": 60.585202,
+    "longitude": 27.70975,
+    "address": "Itätie 1",
+    "postalCode": "49900",
+    "locality": "VIROLAHTI"
+  },
+  {
+    "storeId": "2781",
+    "name": "Kotka Pasaati",
+    "url": "/myymalat-palvelut/2781/",
+    "latitude": 60.467086,
+    "longitude": 26.943838,
+    "address": "Kirkkokatu 7",
+    "postalCode": "48100",
+    "locality": "KOTKA"
+  },
+  {
+    "storeId": "2782",
+    "name": "Kotka Sutela Prisma",
+    "url": "/myymalat-palvelut/2782/",
+    "latitude": 60.501522,
+    "longitude": 26.867186,
+    "address": "Hakamäentie 1",
+    "postalCode": "48400",
+    "locality": "KOTKA"
+  },
+  {
+    "storeId": "2783",
+    "name": "Kotka Jumalniemi Citymarket",
+    "url": "/myymalat-palvelut/2783/",
+    "latitude": 60.505699,
+    "longitude": 26.916507,
+    "address": "Jumalniementie 8",
+    "postalCode": "48600",
+    "locality": "KOTKA"
+  },
+  {
+    "storeId": "2786",
+    "name": "Pyhtää",
+    "url": "/myymalat-palvelut/2786/",
+    "latitude": 60.4891193,
+    "longitude": 26.55759576,
+    "address": "Pyhtääntie 38-40, ABC-liikenneasema",
+    "postalCode": "49270",
+    "locality": "PYHTÄÄ"
+  },
+  {
+    "storeId": "2790",
+    "name": "Luumäki Taavetti",
+    "url": "/myymalat-palvelut/2790/",
+    "latitude": 60.922663,
+    "longitude": 27.568984,
+    "address": "Riihitie 1",
+    "postalCode": "54500",
+    "locality": "TAAVETTI"
+  },
+  {
+    "storeId": "2791",
+    "name": "Lappeenranta keskusta Iso Kristiina",
+    "url": "/myymalat-palvelut/2791/",
+    "latitude": 61.057062,
+    "longitude": 28.195178,
+    "address": "Brahenkatu 3A",
+    "postalCode": "53100",
+    "locality": "LAPPEENRANTA"
+  },
+  {
+    "storeId": "2792",
+    "name": "Lappeenranta Citymarket",
+    "url": "/myymalat-palvelut/2792/",
+    "latitude": 61.044756,
+    "longitude": 28.202433,
+    "address": "Toikansuontie 4",
+    "postalCode": "53500",
+    "locality": "LAPPEENRANTA"
+  },
+  {
+    "storeId": "2793",
+    "name": "Lappeenranta Leiri Prisma",
+    "url": "/myymalat-palvelut/2793/",
+    "latitude": 61.050894,
+    "longitude": 28.178024,
+    "address": "Puhakankatu 9-11",
+    "postalCode": "53600",
+    "locality": "LAPPEENRANTA"
+  },
+  {
+    "storeId": "2794",
+    "name": "Lappeenranta Joutseno",
+    "url": "/myymalat-palvelut/2794/",
+    "latitude": 61.118144,
+    "longitude": 28.501645,
+    "address": "Keskuskatu 4",
+    "postalCode": "54100",
+    "locality": "JOUTSENO"
+  },
+  {
+    "storeId": "2795",
+    "name": "Imatra Mansikkala",
+    "url": "/myymalat-palvelut/2795/",
+    "latitude": 61.188554,
+    "longitude": 28.76279,
+    "address": "Karhumäenkatu 6",
+    "postalCode": "55120",
+    "locality": "IMATRA"
+  },
+  {
+    "storeId": "2796",
+    "name": "Imatra Vuoksenniska",
+    "url": "/myymalat-palvelut/2796/",
+    "latitude": 61.224899,
+    "longitude": 28.835851,
+    "address": "Torikatu 8",
+    "postalCode": "55800",
+    "locality": "IMATRA"
+  },
+  {
+    "storeId": "2797",
+    "name": "Savitaipale",
+    "url": "/myymalat-palvelut/2797/",
+    "latitude": 61.197615,
+    "longitude": 27.681354,
+    "address": "Torikatu 6",
+    "postalCode": "54800",
+    "locality": "SAVITAIPALE"
+  },
+  {
+    "storeId": "2798",
+    "name": "Parikkala",
+    "url": "/myymalat-palvelut/2798/",
+    "latitude": 61.55807557,
+    "longitude": 29.50083074,
+    "address": "Parikkalantie 19",
+    "postalCode": "59100",
+    "locality": "PARIKKALA"
+  },
+  {
+    "storeId": "2801",
+    "name": "Kannus",
+    "url": "/myymalat-palvelut/2801/",
+    "latitude": 63.901444,
+    "longitude": 23.917357,
+    "address": "Torikuja 3",
+    "postalCode": "69100",
+    "locality": "KANNUS"
+  },
+  {
+    "storeId": "2802",
+    "name": "Kalajoki",
+    "url": "/myymalat-palvelut/2802/",
+    "latitude": 64.260334,
+    "longitude": 23.950219,
+    "address": "Merenojantie 2",
+    "postalCode": "85100",
+    "locality": "KALAJOKI"
+  },
+  {
+    "storeId": "2803",
+    "name": "Kokkola Kosila Prisma",
+    "url": "/myymalat-palvelut/2803/",
+    "latitude": 63.833051,
+    "longitude": 23.122473,
+    "address": "Prismantie 1",
+    "postalCode": "67700",
+    "locality": "KOKKOLA"
+  },
+  {
+    "storeId": "2804",
+    "name": "Ylivieska",
+    "url": "/myymalat-palvelut/2804/",
+    "latitude": 64.060569,
+    "longitude": 24.556233,
+    "address": "Savarinkatu 9",
+    "postalCode": "84100",
+    "locality": "YLIVIESKA"
+  },
+  {
+    "storeId": "2805",
+    "name": "Oulainen",
+    "url": "/myymalat-palvelut/2805/",
+    "latitude": 64.268537,
+    "longitude": 24.828768,
+    "address": "Oulaistenkatu 15–17",
+    "postalCode": "86300",
+    "locality": "OULAINEN"
+  },
+  {
+    "storeId": "2806",
+    "name": "Kaustinen",
+    "url": "/myymalat-palvelut/2806/",
+    "latitude": 63.548406,
+    "longitude": 23.689246,
+    "address": "Terveystie 1",
+    "postalCode": "69600",
+    "locality": "KAUSTINEN"
+  },
+  {
+    "storeId": "2807",
+    "name": "Haapajärvi",
+    "url": "/myymalat-palvelut/2807/",
+    "latitude": 63.748838,
+    "longitude": 25.318171,
+    "address": "Kirkkokatu 1",
+    "postalCode": "85800",
+    "locality": "HAAPAJÄRVI"
+  },
+  {
+    "storeId": "2808",
+    "name": "Pulkkila",
+    "url": "/myymalat-palvelut/2808/",
+    "latitude": 64.265554,
+    "longitude": 25.865079,
+    "address": "Pulkkilantie 2",
+    "postalCode": "92600",
+    "locality": "PULKKILA"
+  },
+  {
+    "storeId": "2809",
+    "name": "Pyhäjärvi",
+    "url": "/myymalat-palvelut/2809/",
+    "latitude": 63.682499,
+    "longitude": 25.982018,
+    "address": "Antintie 3",
+    "postalCode": "86800",
+    "locality": "PYHÄSALMI"
+  },
+  {
+    "storeId": "2810",
+    "name": "Nivala",
+    "url": "/myymalat-palvelut/2810/",
+    "latitude": 63.929164,
+    "longitude": 24.967176,
+    "address": "Toritie 13",
+    "postalCode": "85500",
+    "locality": "NIVALA"
+  },
+  {
+    "storeId": "2811",
+    "name": "Haapavesi",
+    "url": "/myymalat-palvelut/2811/",
+    "latitude": 64.1377333,
+    "longitude": 25.3642155,
+    "address": "Vanhatie 48",
+    "postalCode": "86600",
+    "locality": "HAAPAVESI"
+  },
+  {
+    "storeId": "2813",
+    "name": "Kokkola keskusta K-Supermarket",
+    "url": "/myymalat-palvelut/2813/",
+    "latitude": 63.836051,
+    "longitude": 23.142568,
+    "address": "Rautatienkatu 10",
+    "postalCode": "67100",
+    "locality": "KOKKOLA"
+  },
+  {
+    "storeId": "2814",
+    "name": "Kärsämäki",
+    "url": "/myymalat-palvelut/2814/",
+    "latitude": 63.97384,
+    "longitude": 25.760726,
+    "address": "Haapajärventie 1",
+    "postalCode": "86710",
+    "locality": "KÄRSÄMÄKI"
+  },
+  {
+    "storeId": "2815",
+    "name": "Raahe",
+    "url": "/myymalat-palvelut/2815/",
+    "latitude": 64.680272,
+    "longitude": 24.492469,
+    "address": "Ollinkalliontie 2",
+    "postalCode": "92120",
+    "locality": "RAAHE"
+  },
+  {
+    "storeId": "2820",
+    "name": "Liminka",
+    "url": "/myymalat-palvelut/2820/",
+    "latitude": 64.807193,
+    "longitude": 25.454925,
+    "address": "Pitkäkoskentie 15",
+    "postalCode": "91900",
+    "locality": "LIMINKA"
+  },
+  {
+    "storeId": "2821",
+    "name": "Kajaani Prisma",
+    "url": "/myymalat-palvelut/2821/",
+    "latitude": 64.22102,
+    "longitude": 27.748742,
+    "address": "Veturitie 1",
+    "postalCode": "87100",
+    "locality": "KAJAANI"
+  },
+  {
+    "storeId": "2822",
+    "name": "Sotkamo",
+    "url": "/myymalat-palvelut/2822/",
+    "latitude": 64.130616,
+    "longitude": 28.383809,
+    "address": "Kainuuntie 18",
+    "postalCode": "88600",
+    "locality": "SOTKAMO"
+  },
+  {
+    "storeId": "2823",
+    "name": "Kuhmo",
+    "url": "/myymalat-palvelut/2823/",
+    "latitude": 64.127205,
+    "longitude": 29.525218,
+    "address": "Koulukatu 13",
+    "postalCode": "88900",
+    "locality": "KUHMO"
+  },
+  {
+    "storeId": "2824",
+    "name": "Hyrynsalmi",
+    "url": "/myymalat-palvelut/2824/",
+    "latitude": 64.674993,
+    "longitude": 28.505947,
+    "address": "Hyryntie 45",
+    "postalCode": "89400",
+    "locality": "HYRYNSALMI"
+  },
+  {
+    "storeId": "2825",
+    "name": "Kajaani keskusta Citymarket",
+    "url": "/myymalat-palvelut/2825/",
+    "latitude": 64.223235,
+    "longitude": 27.736667,
+    "address": "Kauppakatu 10",
+    "postalCode": "87100",
+    "locality": "KAJAANI"
+  },
+  {
+    "storeId": "2826",
+    "name": "Paltamo",
+    "url": "/myymalat-palvelut/2826/",
+    "latitude": 64.403758,
+    "longitude": 27.835359,
+    "address": "Rinnekuja 2",
+    "postalCode": "88300",
+    "locality": "PALTAMO"
+  },
+  {
+    "storeId": "2827",
+    "name": "Puolanka",
+    "url": "/myymalat-palvelut/2827/",
+    "latitude": 64.869467,
+    "longitude": 27.665958,
+    "address": "Keskuskatu 2",
+    "postalCode": "89200",
+    "locality": "PUOLANKA"
+  },
+  {
+    "storeId": "2828",
+    "name": "Suomussalmi",
+    "url": "/myymalat-palvelut/2828/",
+    "latitude": 64.8873,
+    "longitude": 28.9083,
+    "address": "Risteentie 12",
+    "postalCode": "89600",
+    "locality": "SUOMUSSALMI"
+  },
+  {
+    "storeId": "2829",
+    "name": "Oulu Kaakkuri",
+    "url": "/myymalat-palvelut/2829/",
+    "latitude": 64.952565,
+    "longitude": 25.534825,
+    "address": "Metsokankaantie 5",
+    "postalCode": "90420",
+    "locality": "OULU"
+  },
+  {
+    "storeId": "2830",
+    "name": "Oulu Linnanmaa",
+    "url": "/myymalat-palvelut/2830/",
+    "latitude": 65.054959,
+    "longitude": 25.457923,
+    "address": "Kauppalinnankuja 1-3",
+    "postalCode": "90570",
+    "locality": "OULU"
+  },
+  {
+    "storeId": "2831",
+    "name": "Oulu Stockmann",
+    "url": "/myymalat-palvelut/2831/",
+    "latitude": 65.01214,
+    "longitude": 25.468476,
+    "address": "Kauppurienkatu 10",
+    "postalCode": "90100",
+    "locality": "OULU"
+  },
+  {
+    "storeId": "2832",
+    "name": "Oulu Raksila",
+    "url": "/myymalat-palvelut/2832/",
+    "latitude": 65.010463,
+    "longitude": 25.487853,
+    "address": "Tehtaankatu 1",
+    "postalCode": "90130",
+    "locality": "OULU"
+  },
+  {
+    "storeId": "2833",
+    "name": "Oulu Limingantulli",
+    "url": "/myymalat-palvelut/2833/",
+    "latitude": 64.99404078,
+    "longitude": 25.46097159,
+    "address": "Nuottasaarentie 1",
+    "postalCode": "90400",
+    "locality": "OULU"
+  },
+  {
+    "storeId": "2834",
+    "name": "Oulu Välivainio",
+    "url": "/myymalat-palvelut/2834/",
+    "latitude": 65.030982,
+    "longitude": 25.472193,
+    "address": "Revonkuja 2",
+    "postalCode": "90530",
+    "locality": "OULU"
+  },
+  {
+    "storeId": "2835",
+    "name": "Kempele Zeppelin",
+    "url": "/myymalat-palvelut/2835/",
+    "latitude": 64.903284,
+    "longitude": 25.538211,
+    "address": "Zeppelinintie 1",
+    "postalCode": "90450",
+    "locality": "KEMPELE"
+  },
+  {
+    "storeId": "2836",
+    "name": "Oulu Haukipudas",
+    "url": "/myymalat-palvelut/2836/",
+    "latitude": 65.176562,
+    "longitude": 25.349004,
+    "address": "Revontie 8",
+    "postalCode": "90830",
+    "locality": "HAUKIPUDAS"
+  },
+  {
+    "storeId": "2837",
+    "name": "Muhos",
+    "url": "/myymalat-palvelut/2837/",
+    "latitude": 64.808204,
+    "longitude": 25.990905,
+    "address": "Valtatie 20",
+    "postalCode": "91500",
+    "locality": "MUHOS"
+  },
+  {
+    "storeId": "2838",
+    "name": "Oulu Kiiminki",
+    "url": "/myymalat-palvelut/2838/",
+    "latitude": 65.12757,
+    "longitude": 25.778904,
+    "address": "Kauppareitti 2",
+    "postalCode": "90900",
+    "locality": "KIIMINKI"
+  },
+  {
+    "storeId": "2839",
+    "name": "Oulu Oulunsalo",
+    "url": "/myymalat-palvelut/2839/",
+    "latitude": 64.934119,
+    "longitude": 25.400345,
+    "address": "Karhuojantie 2",
+    "postalCode": "90460",
+    "locality": "OULUNSALO"
+  },
+  {
+    "storeId": "2840",
+    "name": "Ii",
+    "url": "/myymalat-palvelut/2840/",
+    "latitude": 65.322115,
+    "longitude": 25.377275,
+    "address": "Kisatie 2",
+    "postalCode": "91100",
+    "locality": "II"
+  },
+  {
+    "storeId": "2841",
+    "name": "Vaala",
+    "url": "/myymalat-palvelut/2841/",
+    "latitude": 64.560545,
+    "longitude": 26.843812,
+    "address": "Vaalantie 26",
+    "postalCode": "91700",
+    "locality": "VAALA"
+  },
+  {
+    "storeId": "2843",
+    "name": "Pudasjärvi",
+    "url": "/myymalat-palvelut/2843/",
+    "latitude": 65.360774,
+    "longitude": 26.995651,
+    "address": "Kauppatie 8",
+    "postalCode": "93100",
+    "locality": "PUDASJÄRVI"
+  },
+  {
+    "storeId": "2846",
+    "name": "Kuusamo keskusta",
+    "url": "/myymalat-palvelut/2846/",
+    "latitude": 65.955778,
+    "longitude": 29.160433,
+    "address": "Luomantie 1-3",
+    "postalCode": "93600",
+    "locality": "KUUSAMO"
+  },
+  {
+    "storeId": "2847",
+    "name": "Taivalkoski",
+    "url": "/myymalat-palvelut/2847/",
+    "latitude": 65.574952,
+    "longitude": 28.243856,
+    "address": "Kauppatie 11",
+    "postalCode": "93400",
+    "locality": "TAIVALKOSKI"
+  },
+  {
+    "storeId": "2848",
+    "name": "Kuusamo Ruka",
+    "url": "/myymalat-palvelut/2848/",
+    "latitude": 66.16753,
+    "longitude": 29.138535,
+    "address": "Rukankyläntie 8",
+    "postalCode": "93825",
+    "locality": "RUKATUNTURI"
+  },
+  {
+    "storeId": "2851",
+    "name": "Inari Ivalo",
+    "url": "/myymalat-palvelut/2851/",
+    "latitude": 68.659689,
+    "longitude": 27.541203,
+    "address": "Petsamontie 2",
+    "postalCode": "99800",
+    "locality": "IVALO"
+  },
+  {
+    "storeId": "2852",
+    "name": "Inari Saariselkä",
+    "url": "/myymalat-palvelut/2852/",
+    "latitude": 68.419503,
+    "longitude": 27.408828,
+    "address": "Saariseläntie 1, PL 16",
+    "postalCode": "99831",
+    "locality": "SAARISELKÄ"
+  },
+  {
+    "storeId": "2853",
+    "name": "Sodankylä",
+    "url": "/myymalat-palvelut/2853/",
+    "latitude": 67.413967,
+    "longitude": 26.585427,
+    "address": "Haastajantie 1",
+    "postalCode": "99600",
+    "locality": "SODANKYLÄ"
+  },
+  {
+    "storeId": "2855",
+    "name": "Rovaniemi keskusta",
+    "url": "/myymalat-palvelut/2855/",
+    "latitude": 66.503095,
+    "longitude": 25.726452,
+    "address": "Koskikatu 25",
+    "postalCode": "96200",
+    "locality": "ROVANIEMI"
+  },
+  {
+    "storeId": "2856",
+    "name": "Rovaniemi Saarenkylä",
+    "url": "/myymalat-palvelut/2856/",
+    "latitude": 66.517509,
+    "longitude": 25.7578,
+    "address": "Pulkamontie 1",
+    "postalCode": "96900",
+    "locality": "SAARENKYLÄ"
+  },
+  {
+    "storeId": "2857",
+    "name": "Rovaniemi Eteläkeskus",
+    "url": "/myymalat-palvelut/2857/",
+    "latitude": 66.491446,
+    "longitude": 25.691872,
+    "address": "Teollisuustie 1",
+    "postalCode": "96320",
+    "locality": "ROVANIEMI"
+  },
+  {
+    "storeId": "2858",
+    "name": "Ranua",
+    "url": "/myymalat-palvelut/2858/",
+    "latitude": 65.932795,
+    "longitude": 26.509411,
+    "address": "Keskustie 1",
+    "postalCode": "97700",
+    "locality": "RANUA"
+  },
+  {
+    "storeId": "2859",
+    "name": "Posio",
+    "url": "/myymalat-palvelut/2859/",
+    "latitude": 66.112341,
+    "longitude": 28.157987,
+    "address": "Posiontie 49",
+    "postalCode": "97900",
+    "locality": "POSIO"
+  },
+  {
+    "storeId": "2865",
+    "name": "Kemi",
+    "url": "/myymalat-palvelut/2865/",
+    "latitude": 65.73967247,
+    "longitude": 24.56472583,
+    "address": "Asemakatu 1",
+    "postalCode": "94100",
+    "locality": "KEMI"
+  },
+  {
+    "storeId": "2866",
+    "name": "Keminmaa",
+    "url": "/myymalat-palvelut/2866/",
+    "latitude": 65.792657,
+    "longitude": 24.527461,
+    "address": "Jokisuuntie 8",
+    "postalCode": "94450",
+    "locality": "KEMINMAA"
+  },
+  {
+    "storeId": "2875",
+    "name": "Tornio",
+    "url": "/myymalat-palvelut/2875/",
+    "latitude": 65.84385,
+    "longitude": 24.143978,
+    "address": "Länsiranta 10 as 1320",
+    "postalCode": "95400",
+    "locality": "TORNIO"
+  },
+  {
+    "storeId": "2876",
+    "name": "Ylitornio",
+    "url": "/myymalat-palvelut/2876/",
+    "latitude": 66.326552,
+    "longitude": 23.677091,
+    "address": "Alkkulanraitti 75",
+    "postalCode": "95600",
+    "locality": "YLITORNIO"
+  },
+  {
+    "storeId": "2877",
+    "name": "Pello",
+    "url": "/myymalat-palvelut/2877/",
+    "latitude": 66.773552,
+    "longitude": 23.964842,
+    "address": "Pellontie 23",
+    "postalCode": "95700",
+    "locality": "PELLO"
+  },
+  {
+    "storeId": "2878",
+    "name": "Kittilä keskusta",
+    "url": "/myymalat-palvelut/2878/",
+    "latitude": 67.657167,
+    "longitude": 24.907671,
+    "address": "Valtatie 68",
+    "postalCode": "99100",
+    "locality": "KITTILÄ"
+  },
+  {
+    "storeId": "2879",
+    "name": "Muonio",
+    "url": "/myymalat-palvelut/2879/",
+    "latitude": 67.955545,
+    "longitude": 23.683955,
+    "address": "Lahenrannantie 1",
+    "postalCode": "99300",
+    "locality": "MUONIO"
+  },
+  {
+    "storeId": "2880",
+    "name": "Kolari keskusta",
+    "url": "/myymalat-palvelut/2880/",
+    "latitude": 67.335298,
+    "longitude": 23.820361,
+    "address": "Jokijalantie 2 A",
+    "postalCode": "95900",
+    "locality": "KOLARI"
+  },
+  {
+    "storeId": "2881",
+    "name": "Kittilä Levi",
+    "url": "/myymalat-palvelut/2881/",
+    "latitude": 67.808927,
+    "longitude": 24.806355,
+    "address": "Leviraitti 18",
+    "postalCode": "99130",
+    "locality": "SIRKKA"
+  },
+  {
+    "storeId": "2882",
+    "name": "Kolari Ylläs Äkäslompolo",
+    "url": "/myymalat-palvelut/2882/",
+    "latitude": 67.605228,
+    "longitude": 24.154617,
+    "address": "Sannanrannantie 3",
+    "postalCode": "95970",
+    "locality": "ÄKÄSLOMPOLO"
+  },
+  {
+    "storeId": "2883",
+    "name": "Utsjoki Karigasniemi",
+    "url": "/myymalat-palvelut/2883/",
+    "latitude": 69.39858508,
+    "longitude": 25.85193962,
+    "address": "Ylätenontie 24",
+    "postalCode": "99950",
+    "locality": "KARIGASNIEMI"
+  },
+  {
+    "storeId": "2885",
+    "name": "Kemijärvi",
+    "url": "/myymalat-palvelut/2885/",
+    "latitude": 66.71595476,
+    "longitude": 27.42840314,
+    "address": "Kirkkokatu 2-4",
+    "postalCode": "98100",
+    "locality": "KEMIJÄRVI"
+  },
+  {
+    "storeId": "2887",
+    "name": "Salla",
+    "url": "/myymalat-palvelut/2887/",
+    "latitude": 66.832076,
+    "longitude": 28.670251,
+    "address": "Kuusamontie 9",
+    "postalCode": "98900",
+    "locality": "SALLA"
+  },
+  {
+    "storeId": "2888",
+    "name": "Enontekiö Hetta",
+    "url": "/myymalat-palvelut/2888/",
+    "latitude": 68.384754,
+    "longitude": 23.639437,
+    "address": "Kustaavantie 1",
+    "postalCode": "99400",
+    "locality": "ENONTEKIÖ"
+  },
+  {
+    "storeId": "2889",
+    "name": "Utsjoki Nuorgam",
+    "url": "/myymalat-palvelut/2889/",
+    "latitude": 70.080733,
+    "longitude": 27.86485,
+    "address": null,
+    "postalCode": "99990",
+    "locality": "NUORGAM"
+  },
+  {
+    "storeId": "217301",
+    "name": "Tarmo, Bromarv",
+    "url": "/myymalat-palvelut/217301/",
+    "latitude": 59.989735,
+    "longitude": 23.039226,
+    "address": "Bromarvintie 1834",
+    "postalCode": "10570",
+    "locality": "BROMARV"
+  },
+  {
+    "storeId": "217302",
+    "name": "Sommaröstrand Vierassatama",
+    "url": "/myymalat-palvelut/217302/",
+    "latitude": 59.90007306,
+    "longitude": 23.41239963,
+    "address": "Sommarönranta 19",
+    "postalCode": "10600",
+    "locality": "TAMMISAARI"
+  },
+  {
+    "storeId": "217502",
+    "name": "Degerby Deli",
+    "url": "/myymalat-palvelut/217502/",
+    "latitude": 60.081591,
+    "longitude": 24.176016,
+    "address": "Degerbyntie 1",
+    "postalCode": "10160",
+    "locality": "DEGERBY"
+  },
+  {
+    "storeId": "217701",
+    "name": "Neste Karjalohja",
+    "url": "/myymalat-palvelut/217701/",
+    "latitude": 60.244695,
+    "longitude": 23.731551,
+    "address": "Keskustie 57",
+    "postalCode": "09120",
+    "locality": "KARJALOHJA"
+  },
+  {
+    "storeId": "217702",
+    "name": "Tonin kioski",
+    "url": "/myymalat-palvelut/217702/",
+    "latitude": 60.107059,
+    "longitude": 24.24189,
+    "address": "Åke Tottin tie",
+    "postalCode": "02580",
+    "locality": "SIUNTIO"
+  },
+  {
+    "storeId": "217703",
+    "name": "K-Extra Landen",
+    "url": "/myymalat-palvelut/217703/",
+    "latitude": 60.3804554,
+    "longitude": 23.95837113,
+    "address": "Kauppakuja 1",
+    "postalCode": "09430",
+    "locality": "SAUKKOLA"
+  },
+  {
+    "storeId": "219003",
+    "name": "Sale Pukkila",
+    "url": "/myymalat-palvelut/219003/",
+    "latitude": 60.645856,
+    "longitude": 25.578743,
+    "address": "Koivulinnantie 10",
+    "postalCode": "07560",
+    "locality": "PUKKILA"
+  },
+  {
+    "storeId": "219004",
+    "name": "Sarvsalö bybutik-Sarvisalon kyläkauppa Oy Ab",
+    "url": "/myymalat-palvelut/219004/",
+    "latitude": 60.305891,
+    "longitude": 25.962619,
+    "address": "Sarvsalövägen 1055",
+    "postalCode": "07780",
+    "locality": "HÄRPE"
+  },
+  {
+    "storeId": "219005",
+    "name": "M Tirmon Saaristokeskus",
+    "url": "/myymalat-palvelut/219005/",
+    "latitude": 60.2477,
+    "longitude": 25.896979,
+    "address": "Tirmontie 611",
+    "postalCode": "07360",
+    "locality": "TIRMO"
+  },
+  {
+    "storeId": "220501",
+    "name": "Kukkakauppa Outimaarit",
+    "url": "/myymalat-palvelut/220501/",
+    "latitude": 60.561581,
+    "longitude": 21.612641,
+    "address": "Keskustie 11",
+    "postalCode": "23310",
+    "locality": "TAIVASSALO"
+  },
+  {
+    "storeId": "222101",
+    "name": "ABC Huoltamo",
+    "url": "/myymalat-palvelut/222101/",
+    "latitude": 60.6883,
+    "longitude": 21.723075,
+    "address": "Vinkkiläntie 20",
+    "postalCode": "23200",
+    "locality": "VINKKILÄ"
+  },
+  {
+    "storeId": "222701",
+    "name": "BMA Miljö",
+    "url": "/myymalat-palvelut/222701/",
+    "latitude": 60.16236928,
+    "longitude": 21.56144682,
+    "address": "Kauppamiehentie 6",
+    "postalCode": "21710",
+    "locality": "KORPPOO"
+  },
+  {
+    "storeId": "222702",
+    "name": "Nötö Boden",
+    "url": "/myymalat-palvelut/222702/",
+    "latitude": 59.961506,
+    "longitude": 21.765068,
+    "address": null,
+    "postalCode": "21680",
+    "locality": "NÖTÖ"
+  },
+  {
+    "storeId": "222704",
+    "name": "Houtskärs Sparbank",
+    "url": "/myymalat-palvelut/222704/",
+    "latitude": 60.21471,
+    "longitude": 21.358371,
+    "address": null,
+    "postalCode": "21760",
+    "locality": "HOUTSKARI"
+  },
+  {
+    "storeId": "223102",
+    "name": "Sale Kiikala",
+    "url": "/myymalat-palvelut/223102/",
+    "latitude": 60.46175,
+    "longitude": 23.556472,
+    "address": "Kirkkotie 14",
+    "postalCode": "25390",
+    "locality": "KIIKALA"
+  },
+  {
+    "storeId": "223103",
+    "name": "Kiskon Liikenneasema",
+    "url": "/myymalat-palvelut/223103/",
+    "latitude": 60.265779,
+    "longitude": 23.447559,
+    "address": "Toijantie 1",
+    "postalCode": "25460",
+    "locality": "KISKO"
+  },
+  {
+    "storeId": "223801",
+    "name": "Koski Tl, Matkahuolto",
+    "url": "/myymalat-palvelut/223801/",
+    "latitude": 60.653024,
+    "longitude": 23.140416,
+    "address": "Hämeentie 9",
+    "postalCode": "31500",
+    "locality": "KOSKI TL"
+  },
+  {
+    "storeId": "223803",
+    "name": "Rautakauppa Lindström",
+    "url": "/myymalat-palvelut/223803/",
+    "latitude": 60.854744,
+    "longitude": 22.696517,
+    "address": "Turuntie 6",
+    "postalCode": "32500",
+    "locality": "ORIPÄÄ"
+  },
+  {
+    "storeId": "225102",
+    "name": "K-Extra Ahlainen",
+    "url": "/myymalat-palvelut/225102/",
+    "latitude": 61.670828,
+    "longitude": 21.643198,
+    "address": "Ahlaistentie 658",
+    "postalCode": "29700",
+    "locality": "AHLAINEN"
+  },
+  {
+    "storeId": "225104",
+    "name": "Sale Luvia",
+    "url": "/myymalat-palvelut/225104/",
+    "latitude": 61.356806,
+    "longitude": 21.632659,
+    "address": "Lukkarilantie 1",
+    "postalCode": "29100",
+    "locality": "LUVIA"
+  },
+  {
+    "storeId": "225105",
+    "name": "Kiikoisten huoltoasema",
+    "url": "/myymalat-palvelut/225105/",
+    "latitude": 61.444725,
+    "longitude": 22.571815,
+    "address": "Jaarantie 11",
+    "postalCode": "38360",
+    "locality": "KIIKOINEN"
+  },
+  {
+    "storeId": "226003",
+    "name": "Väri- ja Tapettiliike H. Nygård",
+    "url": "/myymalat-palvelut/226003/",
+    "latitude": 61.597685,
+    "longitude": 22.587295,
+    "address": "Tampereentie 9",
+    "postalCode": "38600",
+    "locality": "LAVIA"
+  },
+  {
+    "storeId": "226004",
+    "name": "Neste Karvia",
+    "url": "/myymalat-palvelut/226004/",
+    "latitude": 62.132521,
+    "longitude": 22.560013,
+    "address": "Ylä-Satakunnantie 12",
+    "postalCode": "39930",
+    "locality": "KARVIA"
+  },
+  {
+    "storeId": "226501",
+    "name": "Sale Pyhäranta",
+    "url": "/myymalat-palvelut/226501/",
+    "latitude": 60.950328,
+    "longitude": 21.442361,
+    "address": "Pajamäentie 3",
+    "postalCode": "23950",
+    "locality": "PYHÄRANTA"
+  },
+  {
+    "storeId": "226802",
+    "name": "Sepän Matin Pyörä ja Kone",
+    "url": "/myymalat-palvelut/226802/",
+    "latitude": 61.111844,
+    "longitude": 23.105429,
+    "address": "Lauttakyläntie 1",
+    "postalCode": "31900",
+    "locality": "PUNKALAIDUN"
+  },
+  {
+    "storeId": "227202",
+    "name": "Ylistaron Kirjakauppa",
+    "url": "/myymalat-palvelut/227202/",
+    "latitude": 62.949064,
+    "longitude": 22.533029,
+    "address": "Kaukolanraitti 40",
+    "postalCode": "61400",
+    "locality": "YLISTARO"
+  },
+  {
+    "storeId": "227204",
+    "name": "Kuortaneen Kirjakauppa",
+    "url": "/myymalat-palvelut/227204/",
+    "latitude": 62.805961,
+    "longitude": 23.506866,
+    "address": "Keskustie 48",
+    "postalCode": "63100",
+    "locality": "KUORTANE"
+  },
+  {
+    "storeId": "227205",
+    "name": "Soinin Auto Jari ja Jorma Kataja-aho Ky",
+    "url": "/myymalat-palvelut/227205/",
+    "latitude": 62.872523,
+    "longitude": 24.209211,
+    "address": "Multiantie 7",
+    "postalCode": "63800",
+    "locality": "SOINI"
+  },
+  {
+    "storeId": "227501",
+    "name": "Suomelan Kauppahuone Oy",
+    "url": "/myymalat-palvelut/227501/",
+    "latitude": 63.300712,
+    "longitude": 23.156216,
+    "address": "Jääkärintie 54",
+    "postalCode": "62420",
+    "locality": "KORTESJÄRVI"
+  },
+  {
+    "storeId": "227701",
+    "name": "Vetohalli Ulla Laakso Oy",
+    "url": "/myymalat-palvelut/227701/",
+    "latitude": 63.159619,
+    "longitude": 23.825651,
+    "address": "Patruunantie 10 A",
+    "postalCode": "62800",
+    "locality": "VIMPELI"
+  },
+  {
+    "storeId": "228001",
+    "name": "Cafe Meteora",
+    "url": "/myymalat-palvelut/228001/",
+    "latitude": 62.111477,
+    "longitude": 21.963743,
+    "address": "Honkajoentie 14",
+    "postalCode": "64900",
+    "locality": "ISOJOKI"
+  },
+  {
+    "storeId": "229101",
+    "name": "Molpe Boden",
+    "url": "/myymalat-palvelut/229101/",
+    "latitude": 62.865598,
+    "longitude": 21.28792,
+    "address": "Kolebackvägen 2",
+    "postalCode": "66210",
+    "locality": "MOLPE"
+  },
+  {
+    "storeId": "229102",
+    "name": "Toms Shop",
+    "url": "/myymalat-palvelut/229102/",
+    "latitude": 63.130373,
+    "longitude": 22.252318,
+    "address": "Vöyrintie 5",
+    "postalCode": "66600",
+    "locality": "VÖYRI"
+  },
+  {
+    "storeId": "229103",
+    "name": "Jurvan Kirjakauppa ja Kemikalio",
+    "url": "/myymalat-palvelut/229103/",
+    "latitude": 62.685347,
+    "longitude": 21.979701,
+    "address": "Kauppatie 8",
+    "postalCode": "66300",
+    "locality": "JURVA"
+  },
+  {
+    "storeId": "246503",
+    "name": "Matkahuolto/R-kioski",
+    "url": "/myymalat-palvelut/246503/",
+    "latitude": 61.339888,
+    "longitude": 24.269426,
+    "address": "Keskustie 4",
+    "postalCode": "36600",
+    "locality": "PÄLKÄNE"
+  },
+  {
+    "storeId": "246504",
+    "name": "K-Extra Narvan Herkkuaitta",
+    "url": "/myymalat-palvelut/246504/",
+    "latitude": 61.294571,
+    "longitude": 23.50521,
+    "address": "Tuulikalliontie 47",
+    "postalCode": "37370",
+    "locality": "NARVA"
+  },
+  {
+    "storeId": "246505",
+    "name": "Mouhijärven Rabatti",
+    "url": "/myymalat-palvelut/246505/",
+    "latitude": 61.512531,
+    "longitude": 23.009395,
+    "address": "Uotsolantie 43",
+    "postalCode": "38460",
+    "locality": "MOUHIJÄRVI"
+  },
+  {
+    "storeId": "246506",
+    "name": "Pohjan kyläkauppa",
+    "url": "/myymalat-palvelut/246506/",
+    "latitude": 61.481901,
+    "longitude": 24.70398,
+    "address": "Rautajärventie 14",
+    "postalCode": "36840",
+    "locality": "POHJA"
+  },
+  {
+    "storeId": "248402",
+    "name": "Kivijärven Grilli-Kahvio Ky",
+    "url": "/myymalat-palvelut/248402/",
+    "latitude": 63.120296,
+    "longitude": 25.072955,
+    "address": "Keskustie 27",
+    "postalCode": "43800",
+    "locality": "KIVIJÄRVI"
+  },
+  {
+    "storeId": "248403",
+    "name": "K-Extra Kannontori",
+    "url": "/myymalat-palvelut/248403/",
+    "latitude": 62.978112,
+    "longitude": 25.26556,
+    "address": "Leppälänkyläntie 15",
+    "postalCode": "43300",
+    "locality": "KANNONKOSKI"
+  },
+  {
+    "storeId": "248602",
+    "name": "Linkki-Baari",
+    "url": "/myymalat-palvelut/248602/",
+    "latitude": 62.628505,
+    "longitude": 26.290521,
+    "address": "Asemakuja 3",
+    "postalCode": "44300",
+    "locality": "KONNEVESI"
+  },
+  {
+    "storeId": "249302",
+    "name": "Ravintola Ohrantähkä (Savanna Union Oy)",
+    "url": "/myymalat-palvelut/249302/",
+    "latitude": 62.015595,
+    "longitude": 25.560387,
+    "address": "Korpilahdentie 6",
+    "postalCode": "41800",
+    "locality": "KORPILAHTI"
+  },
+  {
+    "storeId": "270101",
+    "name": "Pirana, Tuupovaaran matkahuolto",
+    "url": "/myymalat-palvelut/270101/",
+    "latitude": 62.482022,
+    "longitude": 30.626386,
+    "address": "Rekijoentie",
+    "postalCode": "82730",
+    "locality": "TUUPOVAARA"
+  },
+  {
+    "storeId": "270105",
+    "name": "Tmi Nuppi ja Neula",
+    "url": "/myymalat-palvelut/270105/",
+    "latitude": 61.893419,
+    "longitude": 29.826675,
+    "address": "Tiittalantie 5",
+    "postalCode": "59800",
+    "locality": "KESÄLAHTI"
+  },
+  {
+    "storeId": "270107",
+    "name": "Siwa Hammaslahti",
+    "url": "/myymalat-palvelut/270107/",
+    "latitude": 62.43248,
+    "longitude": 29.969788,
+    "address": "Lastaustie 1",
+    "postalCode": "82200",
+    "locality": "HAMMASLAHTI"
+  },
+  {
+    "storeId": "270108",
+    "name": "S-Market Kiihtelysvaara",
+    "url": "/myymalat-palvelut/270108/",
+    "latitude": 62.447332,
+    "longitude": 30.271021,
+    "address": "Joensuuntie 11",
+    "postalCode": "82140",
+    "locality": "KIIHTELYSVAARA"
+  },
+  {
+    "storeId": "270109",
+    "name": "K-Market Valtimo",
+    "url": "/myymalat-palvelut/270109/",
+    "latitude": 63.678335,
+    "longitude": 28.814867,
+    "address": "Käpyläntie 2",
+    "postalCode": "75700",
+    "locality": "VALTIMO"
+  },
+  {
+    "storeId": "270112",
+    "name": "K-Market Kontiolahti",
+    "url": "/myymalat-palvelut/270112/",
+    "latitude": 62.764425,
+    "longitude": 29.848509,
+    "address": "Puistotie 1",
+    "postalCode": "81100",
+    "locality": "KONTIOLAHTI"
+  },
+  {
+    "storeId": "270113",
+    "name": "K-Market Polvijärvi",
+    "url": "/myymalat-palvelut/270113/",
+    "latitude": 62.856864,
+    "longitude": 29.374068,
+    "address": "Jääskeläntie 2",
+    "postalCode": "83700",
+    "locality": "POLVIJÄRVI"
+  },
+  {
+    "storeId": "270115",
+    "name": "S-market Rääkkylä",
+    "url": "/myymalat-palvelut/270115/",
+    "latitude": 62.314536,
+    "longitude": 29.623554,
+    "address": "Kirkkotie 1",
+    "postalCode": "82300",
+    "locality": "RÄÄKKYLÄ"
+  },
+  {
+    "storeId": "270117",
+    "name": "K-Market Tuusniemi",
+    "url": "/myymalat-palvelut/270117/",
+    "latitude": 62.80951767,
+    "longitude": 28.49075226,
+    "address": "Jokitie 3",
+    "postalCode": "71200",
+    "locality": "TUUSNIEMI"
+  },
+  {
+    "storeId": "271604",
+    "name": "Palveluasema Lötjöset Oy",
+    "url": "/myymalat-palvelut/271604/",
+    "latitude": 61.756613,
+    "longitude": 29.394493,
+    "address": "Oikotie 5",
+    "postalCode": "58500",
+    "locality": "PUNKAHARJU"
+  },
+  {
+    "storeId": "272201",
+    "name": "Auto- ja venetarvike J. Hannula",
+    "url": "/myymalat-palvelut/272201/",
+    "latitude": 62.024717,
+    "longitude": 27.208407,
+    "address": "Asematie 2",
+    "postalCode": "51600",
+    "locality": "HAUKIVUORI"
+  },
+  {
+    "storeId": "272202",
+    "name": "Anttolan Kone ja Urheilu Oy",
+    "url": "/myymalat-palvelut/272202/",
+    "latitude": 61.583616,
+    "longitude": 27.651979,
+    "address": "Satamatie 10",
+    "postalCode": "52100",
+    "locality": "ANTTOLA"
+  },
+  {
+    "storeId": "272203",
+    "name": "Kukka-kahvila",
+    "url": "/myymalat-palvelut/272203/",
+    "latitude": 61.641667,
+    "longitude": 26.774142,
+    "address": "Hirvensalmentie 25",
+    "postalCode": "52550",
+    "locality": "HIRVENSALMI"
+  },
+  {
+    "storeId": "274103",
+    "name": "Neste liikenneasema",
+    "url": "/myymalat-palvelut/274103/",
+    "latitude": 63.869088,
+    "longitude": 27.440197,
+    "address": "Sukevantie 1",
+    "postalCode": "74340",
+    "locality": "SUKEVA"
+  },
+  {
+    "storeId": "274104",
+    "name": "St 1 Rautavaara",
+    "url": "/myymalat-palvelut/274104/",
+    "latitude": 63.498321,
+    "longitude": 28.304945,
+    "address": "Savontie 1",
+    "postalCode": "73900",
+    "locality": "RAUTAVAARA"
+  },
+  {
+    "storeId": "274107",
+    "name": "Vieremän Matkahuolto",
+    "url": "/myymalat-palvelut/274107/",
+    "latitude": 63.742095,
+    "longitude": 27.001465,
+    "address": "Huoltotie 2",
+    "postalCode": "74200",
+    "locality": "VIEREMÄ"
+  },
+  {
+    "storeId": "274108",
+    "name": "R-kioski Sonkajärvi",
+    "url": "/myymalat-palvelut/274108/",
+    "latitude": 63.66779219,
+    "longitude": 27.52283592,
+    "address": "Rutakontie 36",
+    "postalCode": "74300",
+    "locality": "SONKAJÄRVI"
+  },
+  {
+    "storeId": "274303",
+    "name": "Kahvila Patakatti",
+    "url": "/myymalat-palvelut/274303/",
+    "latitude": 63.1796844,
+    "longitude": 26.35004403,
+    "address": "Asematie 4",
+    "postalCode": "72600",
+    "locality": "KEITELE"
+  },
+  {
+    "storeId": "274502",
+    "name": "Lounas- ja pitopalvelu KestiMestari",
+    "url": "/myymalat-palvelut/274502/",
+    "latitude": 63.152893,
+    "longitude": 27.302487,
+    "address": "Maaningantie 43",
+    "postalCode": "71750",
+    "locality": "MAANINKA"
+  },
+  {
+    "storeId": "274702",
+    "name": "Varpaisjärven Esso, Matkahuolto",
+    "url": "/myymalat-palvelut/274702/",
+    "latitude": 63.360258,
+    "longitude": 27.755705,
+    "address": "Kauppatie 22",
+    "postalCode": "73200",
+    "locality": "VARPAISJÄRVI"
+  },
+  {
+    "storeId": "275102",
+    "name": "Sale Vehmersalmi",
+    "url": "/myymalat-palvelut/275102/",
+    "latitude": 62.761133,
+    "longitude": 28.028518,
+    "address": "Vehmersalmentie 37",
+    "postalCode": "71310",
+    "locality": "VEHMERSALMI"
+  },
+  {
+    "storeId": "275602",
+    "name": "Neste Rautalampi",
+    "url": "/myymalat-palvelut/275602/",
+    "latitude": 62.626055,
+    "longitude": 26.816797,
+    "address": "Jyväskyläntie",
+    "postalCode": "77700",
+    "locality": "RAUTALAMPI"
+  },
+  {
+    "storeId": "275804",
+    "name": "K-Market Nuotti",
+    "url": "/myymalat-palvelut/275804/",
+    "latitude": 62.9299,
+    "longitude": 26.406304,
+    "address": "Keskustie 15",
+    "postalCode": "72300",
+    "locality": "VESANTO"
+  },
+  {
+    "storeId": "276701",
+    "name": "K-Rautamaatalous E. Paavolainen",
+    "url": "/myymalat-palvelut/276701/",
+    "latitude": 61.049341,
+    "longitude": 26.486409,
+    "address": "Jaalantie 134",
+    "postalCode": "47710",
+    "locality": "JAALA"
+  },
+  {
+    "storeId": "278101",
+    "name": "Haapasaaren Osuuskauppa",
+    "url": "/myymalat-palvelut/278101/",
+    "latitude": 60.288783,
+    "longitude": 27.194031,
+    "address": "Haapasaari",
+    "postalCode": "48100",
+    "locality": "KOTKA"
+  },
+  {
+    "storeId": "278102",
+    "name": "Mereta Oy, Kaunissaaren kauppa",
+    "url": "/myymalat-palvelut/278102/",
+    "latitude": 60.362613,
+    "longitude": 26.762568,
+    "address": "Kaunissaari",
+    "postalCode": "48100",
+    "locality": "KOTKA"
+  },
+  {
+    "storeId": "279501",
+    "name": "S-market Simpele",
+    "url": "/myymalat-palvelut/279501/",
+    "latitude": 61.434095,
+    "longitude": 29.35754,
+    "address": "Roihankatu 3",
+    "postalCode": "56800",
+    "locality": "SIMPELE"
+  },
+  {
+    "storeId": "279601",
+    "name": "Utulan kyläkauppa",
+    "url": "/myymalat-palvelut/279601/",
+    "latitude": 61.351495,
+    "longitude": 28.473445,
+    "address": "Utulantie 1045",
+    "postalCode": "56330",
+    "locality": "UTULA"
+  },
+  {
+    "storeId": "280101",
+    "name": "Kinnulan Parlamentti",
+    "url": "/myymalat-palvelut/280101/",
+    "latitude": 63.371451,
+    "longitude": 24.974895,
+    "address": "Jääjoentie 31",
+    "postalCode": "43900",
+    "locality": "KINNULA"
+  },
+  {
+    "storeId": "280102",
+    "name": "JiiPeen valinta T:mi",
+    "url": "/myymalat-palvelut/280102/",
+    "latitude": 63.616484,
+    "longitude": 24.405857,
+    "address": "Poikkitie 19",
+    "postalCode": "69410",
+    "locality": "SYKÄRÄINEN"
+  },
+  {
+    "storeId": "280201",
+    "name": "Yppärin Autohuolto Oy",
+    "url": "/myymalat-palvelut/280201/",
+    "latitude": 64.402729,
+    "longitude": 24.090121,
+    "address": "Kokkolantie 1116",
+    "postalCode": "86170",
+    "locality": "YPPÄRI"
+  },
+  {
+    "storeId": "280401",
+    "name": "TB Huolto",
+    "url": "/myymalat-palvelut/280401/",
+    "latitude": 63.604087,
+    "longitude": 24.945938,
+    "address": "Rantatie 2",
+    "postalCode": "85900",
+    "locality": "REISJÄRVI"
+  },
+  {
+    "storeId": "280801",
+    "name": "Huoltoasema Mäkelä",
+    "url": "/myymalat-palvelut/280801/",
+    "latitude": 64.505711,
+    "longitude": 25.658362,
+    "address": "Urheilutie 4",
+    "postalCode": "92500",
+    "locality": "RANTSILA"
+  },
+  {
+    "storeId": "281501",
+    "name": "Ruukki, Teboil",
+    "url": "/myymalat-palvelut/281501/",
+    "latitude": 64.658408,
+    "longitude": 25.103372,
+    "address": "Pekkalantie 1",
+    "postalCode": "92400",
+    "locality": "RUUKKI"
+  },
+  {
+    "storeId": "281503",
+    "name": "Hilakivi",
+    "url": "/myymalat-palvelut/281503/",
+    "latitude": 64.485976,
+    "longitude": 24.991701,
+    "address": "Asematie 10",
+    "postalCode": "86400",
+    "locality": "VIHANTI"
+  },
+  {
+    "storeId": "282501",
+    "name": "Keisarin Kievari",
+    "url": "/myymalat-palvelut/282501/",
+    "latitude": 64.077612,
+    "longitude": 27.15229,
+    "address": "Vuorimiehentie 2",
+    "postalCode": "88200",
+    "locality": "OTANMÄKI"
+  },
+  {
+    "storeId": "282506",
+    "name": "Juhlapalvelu Runokki",
+    "url": "/myymalat-palvelut/282506/",
+    "latitude": 64.183754,
+    "longitude": 27.020265,
+    "address": "Kajaanintie 1",
+    "postalCode": "88270",
+    "locality": "VUOLIJOKI"
+  },
+  {
+    "storeId": "282801",
+    "name": "Papupata Oy",
+    "url": "/myymalat-palvelut/282801/",
+    "latitude": 65.336726,
+    "longitude": 28.754877,
+    "address": "Perangantie 160",
+    "postalCode": "89780",
+    "locality": "KAIKKONEN"
+  },
+  {
+    "storeId": "283301",
+    "name": "K-Market Hailuoto",
+    "url": "/myymalat-palvelut/283301/",
+    "latitude": 65.016859,
+    "longitude": 24.806924,
+    "address": "Luovontie 150",
+    "postalCode": "90480",
+    "locality": "HAILUOTO"
+  },
+  {
+    "storeId": "283303",
+    "name": "Kestilän TB-huoltamo",
+    "url": "/myymalat-palvelut/283303/",
+    "latitude": 64.352484,
+    "longitude": 26.289727,
+    "address": "Kestilänraitti 2",
+    "postalCode": "92700",
+    "locality": "KESTILÄ"
+  },
+  {
+    "storeId": "284101",
+    "name": "Sellin-Baari",
+    "url": "/myymalat-palvelut/284101/",
+    "latitude": 64.761646,
+    "longitude": 26.421302,
+    "address": "Vanhatie 31",
+    "postalCode": "91600",
+    "locality": "UTAJÄRVI"
+  },
+  {
+    "storeId": "284301",
+    "name": "Syöte Shop Oy",
+    "url": "/myymalat-palvelut/284301/",
+    "latitude": 65.635194,
+    "longitude": 27.618943,
+    "address": "Romekievarintie",
+    "postalCode": "93280",
+    "locality": "SYÖTE"
+  },
+  {
+    "storeId": "285103",
+    "name": "Sevetin Baari",
+    "url": "/myymalat-palvelut/285103/",
+    "latitude": 69.507711,
+    "longitude": 28.599233,
+    "address": "Sevettijärventie 9040 C",
+    "postalCode": "99930",
+    "locality": "SEVETTIJÄRVI"
+  },
+  {
+    "storeId": "285107",
+    "name": "Uulan Säästö",
+    "url": "/myymalat-palvelut/285107/",
+    "latitude": 69.907342,
+    "longitude": 27.027083,
+    "address": null,
+    "postalCode": "99980",
+    "locality": "UTSJOKI"
+  },
+  {
+    "storeId": "285109",
+    "name": "Näätämö ETR-Myynti Oy",
+    "url": "/myymalat-palvelut/285109/",
+    "latitude": 69.664956,
+    "longitude": 29.104033,
+    "address": "sevettijärventie 12206",
+    "postalCode": "99940",
+    "locality": "NÄÄTÄMÖ"
+  },
+  {
+    "storeId": "285110",
+    "name": "Mini Market Kaamasen kievari",
+    "url": "/myymalat-palvelut/285110/",
+    "latitude": 69.103511,
+    "longitude": 27.197707,
+    "address": "Kaamasentie 2855",
+    "postalCode": "99910",
+    "locality": "KAAMANEN"
+  },
+  {
+    "storeId": "285301",
+    "name": "Tunturikauppa Tupasvilla",
+    "url": "/myymalat-palvelut/285301/",
+    "latitude": 67.158349,
+    "longitude": 26.917099,
+    "address": "Hartsutie 1",
+    "postalCode": "99555",
+    "locality": "LUOSTO"
+  },
+  {
+    "storeId": "285303",
+    "name": "Pyhäntähti",
+    "url": "/myymalat-palvelut/285303/",
+    "latitude": 67.018274,
+    "longitude": 27.250633,
+    "address": null,
+    "postalCode": "98530",
+    "locality": "PYHÄTUNTURI"
+  },
+  {
+    "storeId": "285304",
+    "name": "Kone-Virta",
+    "url": "/myymalat-palvelut/285304/",
+    "latitude": 67.290758,
+    "longitude": 28.164678,
+    "address": "Sauherrantie 12",
+    "postalCode": "98800",
+    "locality": "SAVUKOSKI"
+  },
+  {
+    "storeId": "285305",
+    "name": "Seo Pelkosenniemi",
+    "url": "/myymalat-palvelut/285305/",
+    "latitude": 67.109663,
+    "longitude": 27.516256,
+    "address": "Sodankyläntie 9",
+    "postalCode": "98500",
+    "locality": "PELKOSENNIEMI"
+  },
+  {
+    "storeId": "285902",
+    "name": "K-Market Jokitori",
+    "url": "/myymalat-palvelut/285902/",
+    "latitude": 66.377214,
+    "longitude": 26.681474,
+    "address": "Vanttausjärventie 7",
+    "postalCode": "97625",
+    "locality": "VANTTAUSKOSKI"
+  },
+  {
+    "storeId": "286503",
+    "name": "Sale Tervola",
+    "url": "/myymalat-palvelut/286503/",
+    "latitude": 66.09116,
+    "longitude": 24.813066,
+    "address": "Keskustie",
+    "postalCode": "95300",
+    "locality": "TERVOLA"
+  },
+  {
+    "storeId": "287902",
+    "name": "Kilpishalli",
+    "url": "/myymalat-palvelut/287902/",
+    "latitude": 69.016538,
+    "longitude": 20.875214,
+    "address": null,
+    "postalCode": "99490",
+    "locality": "KILPISJÄRVI"
+  },
+  {
+    "storeId": "287905",
+    "name": "Neste-huoltamo",
+    "url": "/myymalat-palvelut/287905/",
+    "latitude": 68.449894,
+    "longitude": 22.481428,
+    "address": "Käsivarrentie 3767",
+    "postalCode": "99470",
+    "locality": "KARESUVANTO"
+  },
+  {
+    "storeId": "288004",
+    "name": "Eelin Kauppa",
+    "url": "/myymalat-palvelut/288004/",
+    "latitude": 67.524765,
+    "longitude": 24.304489,
+    "address": "Tirroniementie 1",
+    "postalCode": "95980",
+    "locality": "YLLÄSJÄRVI"
+  }
+]
