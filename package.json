@@ -9,7 +9,7 @@
   "author": "Pyry Kröger (http://pkroger.org)",
   "license": "MIT",
   "dependencies": {
-    "thematic": "file:../thematic",
+    "thematic": "0.0.1",
     "whatwg-fetch": "^0.7.0"
   },
   "devDependencies": {
