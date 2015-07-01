@@ -4,7 +4,7 @@
   "description": "Example/bootstrap project for Thematic.js",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/browserify -o bin/app.js src/index.js"
+    "build": "./node_modules/.bin/browserify -o build/app.js src/index.js"
   },
   "author": "Pyry Kröger (http://pkroger.org)",
   "license": "MIT",
