@@ -23768,4 +23768,24 @@ map.addModule('alkos',
 	}).setData(dots) // and set the data
 );
 
+var lmap = map.map;
+
+lmap.locate({setView: true, maxZoom: 16});
+function onLocationFound(e) {
+    var radius = e.accuracy / 2;
+
+    L.circleMarker(e.latlng, {
+			stroke: false,
+			fillColor: 'rgba(0, 150, 200, 1)',
+			fillOpacity: 0.8
+		}).addTo(lmap);
+
+    L.circle(e.latlng, radius, {
+			weight: 1,
+			color: 'rgba(0, 0, 255, 0.5)'
+		}).addTo(lmap);
+}
+
+lmap.on('locationfound', onLocationFound);
+
 },{"thematic":7,"whatwg-fetch":19}]},{},[20]);
