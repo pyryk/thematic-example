@@ -6,7 +6,7 @@ var map = new thematic.Thematic(document.getElementById('map'), {
 	imagePath: 'build/images'
 });
 
-var dots = fetch('alko-markers.json')
+var dots = fetch('api/markers.json')
 	.then(function(resp) { return resp.json(); })
 	.then(thematic.converters.flatToGeoJSON); // convert the data from the flat dot format to geojson
 
